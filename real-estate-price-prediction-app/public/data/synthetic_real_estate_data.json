@@ -1,0 +1,8002 @@
+[
+    {
+        "Area (sq ft)":4964,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Anthonyview",
+        "Age of Property":29,
+        "Price ($)":130056
+    },
+    {
+        "Area (sq ft)":3827,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Port Anthony",
+        "Age of Property":72,
+        "Price ($)":239872
+    },
+    {
+        "Area (sq ft)":2569,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Jessemouth",
+        "Age of Property":24,
+        "Price ($)":332406
+    },
+    {
+        "Area (sq ft)":2253,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Maxwellland",
+        "Age of Property":15,
+        "Price ($)":761446
+    },
+    {
+        "Area (sq ft)":1460,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"East Marciaborough",
+        "Age of Property":35,
+        "Price ($)":912990
+    },
+    {
+        "Area (sq ft)":1529,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"North Josebury",
+        "Age of Property":40,
+        "Price ($)":931431
+    },
+    {
+        "Area (sq ft)":1219,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"West Scott",
+        "Age of Property":82,
+        "Price ($)":390268
+    },
+    {
+        "Area (sq ft)":2405,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Callahanport",
+        "Age of Property":84,
+        "Price ($)":87152
+    },
+    {
+        "Area (sq ft)":1664,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Warefurt",
+        "Age of Property":87,
+        "Price ($)":494726
+    },
+    {
+        "Area (sq ft)":699,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Lake Abigail",
+        "Age of Property":52,
+        "Price ($)":899079
+    },
+    {
+        "Area (sq ft)":1395,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Warrenfort",
+        "Age of Property":61,
+        "Price ($)":770437
+    },
+    {
+        "Area (sq ft)":898,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Port Linda",
+        "Age of Property":27,
+        "Price ($)":584861
+    },
+    {
+        "Area (sq ft)":2644,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"West Teresaland",
+        "Age of Property":47,
+        "Price ($)":844197
+    },
+    {
+        "Area (sq ft)":1633,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"South Kelly",
+        "Age of Property":82,
+        "Price ($)":510378
+    },
+    {
+        "Area (sq ft)":4252,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Carolview",
+        "Age of Property":14,
+        "Price ($)":587104
+    },
+    {
+        "Area (sq ft)":3224,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"West Charles",
+        "Age of Property":67,
+        "Price ($)":99004
+    },
+    {
+        "Area (sq ft)":3992,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Smithport",
+        "Age of Property":47,
+        "Price ($)":364131
+    },
+    {
+        "Area (sq ft)":4917,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"New Brianmouth",
+        "Age of Property":100,
+        "Price ($)":200408
+    },
+    {
+        "Area (sq ft)":863,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"West Sheri",
+        "Age of Property":94,
+        "Price ($)":329743
+    },
+    {
+        "Area (sq ft)":946,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Port Alexandra",
+        "Age of Property":87,
+        "Price ($)":981936
+    },
+    {
+        "Area (sq ft)":3112,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Gonzaleztown",
+        "Age of Property":40,
+        "Price ($)":494455
+    },
+    {
+        "Area (sq ft)":4516,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"New Pamelahaven",
+        "Age of Property":25,
+        "Price ($)":175278
+    },
+    {
+        "Area (sq ft)":569,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Moralesburgh",
+        "Age of Property":79,
+        "Price ($)":623829
+    },
+    {
+        "Area (sq ft)":4653,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Lake Leah",
+        "Age of Property":22,
+        "Price ($)":896270
+    },
+    {
+        "Area (sq ft)":2307,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Mistyland",
+        "Age of Property":29,
+        "Price ($)":92585
+    },
+    {
+        "Area (sq ft)":527,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"West Danielton",
+        "Age of Property":89,
+        "Price ($)":375302
+    },
+    {
+        "Area (sq ft)":4707,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"South Brentborough",
+        "Age of Property":35,
+        "Price ($)":810719
+    },
+    {
+        "Area (sq ft)":3570,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"New Joseshire",
+        "Age of Property":79,
+        "Price ($)":656482
+    },
+    {
+        "Area (sq ft)":1556,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Larrytown",
+        "Age of Property":23,
+        "Price ($)":464308
+    },
+    {
+        "Area (sq ft)":3160,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Jeffreyside",
+        "Age of Property":60,
+        "Price ($)":326485
+    },
+    {
+        "Area (sq ft)":3577,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"East Williamtown",
+        "Age of Property":62,
+        "Price ($)":411935
+    },
+    {
+        "Area (sq ft)":1518,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Adamsmouth",
+        "Age of Property":83,
+        "Price ($)":907743
+    },
+    {
+        "Area (sq ft)":1132,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"North Mark",
+        "Age of Property":44,
+        "Price ($)":986290
+    },
+    {
+        "Area (sq ft)":2910,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"North Daniel",
+        "Age of Property":64,
+        "Price ($)":561723
+    },
+    {
+        "Area (sq ft)":1974,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Port Emma",
+        "Age of Property":64,
+        "Price ($)":946983
+    },
+    {
+        "Area (sq ft)":4264,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Joneston",
+        "Age of Property":52,
+        "Price ($)":963033
+    },
+    {
+        "Area (sq ft)":1156,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Millschester",
+        "Age of Property":12,
+        "Price ($)":723124
+    },
+    {
+        "Area (sq ft)":2517,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Weaverside",
+        "Age of Property":22,
+        "Price ($)":210775
+    },
+    {
+        "Area (sq ft)":2609,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Jeanettefort",
+        "Age of Property":65,
+        "Price ($)":991605
+    },
+    {
+        "Area (sq ft)":1913,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Jamesville",
+        "Age of Property":7,
+        "Price ($)":746156
+    },
+    {
+        "Area (sq ft)":934,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Lake Rachelstad",
+        "Age of Property":24,
+        "Price ($)":117783
+    },
+    {
+        "Area (sq ft)":2820,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"New Dustin",
+        "Age of Property":5,
+        "Price ($)":630556
+    },
+    {
+        "Area (sq ft)":1902,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Maloneburgh",
+        "Age of Property":52,
+        "Price ($)":139190
+    },
+    {
+        "Area (sq ft)":643,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"West Stephanietown",
+        "Age of Property":50,
+        "Price ($)":186216
+    },
+    {
+        "Area (sq ft)":2153,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"West Kathy",
+        "Age of Property":67,
+        "Price ($)":731190
+    },
+    {
+        "Area (sq ft)":4565,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Brownland",
+        "Age of Property":48,
+        "Price ($)":635829
+    },
+    {
+        "Area (sq ft)":4645,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Ritterton",
+        "Age of Property":77,
+        "Price ($)":545389
+    },
+    {
+        "Area (sq ft)":1149,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Port Randy",
+        "Age of Property":35,
+        "Price ($)":733320
+    },
+    {
+        "Area (sq ft)":1678,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Bentonland",
+        "Age of Property":69,
+        "Price ($)":708340
+    },
+    {
+        "Area (sq ft)":2904,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"New Michaelton",
+        "Age of Property":80,
+        "Price ($)":954085
+    },
+    {
+        "Area (sq ft)":3414,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"East Stacey",
+        "Age of Property":55,
+        "Price ($)":602283
+    },
+    {
+        "Area (sq ft)":3629,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Harrisonland",
+        "Age of Property":14,
+        "Price ($)":845256
+    },
+    {
+        "Area (sq ft)":3332,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"East Timothymouth",
+        "Age of Property":31,
+        "Price ($)":257893
+    },
+    {
+        "Area (sq ft)":4260,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"North Jamesmouth",
+        "Age of Property":2,
+        "Price ($)":283745
+    },
+    {
+        "Area (sq ft)":641,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"South Robert",
+        "Age of Property":10,
+        "Price ($)":984810
+    },
+    {
+        "Area (sq ft)":1980,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Vincentstad",
+        "Age of Property":55,
+        "Price ($)":492354
+    },
+    {
+        "Area (sq ft)":3482,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Foxland",
+        "Age of Property":78,
+        "Price ($)":587670
+    },
+    {
+        "Area (sq ft)":781,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"New Yolanda",
+        "Age of Property":61,
+        "Price ($)":548828
+    },
+    {
+        "Area (sq ft)":3768,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Craigfurt",
+        "Age of Property":26,
+        "Price ($)":533108
+    },
+    {
+        "Area (sq ft)":2695,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Melissamouth",
+        "Age of Property":1,
+        "Price ($)":308948
+    },
+    {
+        "Area (sq ft)":4293,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Foxport",
+        "Age of Property":93,
+        "Price ($)":983607
+    },
+    {
+        "Area (sq ft)":2225,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"East Robertmouth",
+        "Age of Property":3,
+        "Price ($)":352750
+    },
+    {
+        "Area (sq ft)":2855,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Lindashire",
+        "Age of Property":91,
+        "Price ($)":664832
+    },
+    {
+        "Area (sq ft)":4895,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Katieside",
+        "Age of Property":5,
+        "Price ($)":623455
+    },
+    {
+        "Area (sq ft)":4175,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"North Zachary",
+        "Age of Property":80,
+        "Price ($)":464514
+    },
+    {
+        "Area (sq ft)":2278,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Dawnberg",
+        "Age of Property":42,
+        "Price ($)":173869
+    },
+    {
+        "Area (sq ft)":646,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Port Christopher",
+        "Age of Property":50,
+        "Price ($)":259801
+    },
+    {
+        "Area (sq ft)":1438,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Harrellchester",
+        "Age of Property":48,
+        "Price ($)":395959
+    },
+    {
+        "Area (sq ft)":4671,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Teresaborough",
+        "Age of Property":47,
+        "Price ($)":220079
+    },
+    {
+        "Area (sq ft)":4680,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Coreyview",
+        "Age of Property":9,
+        "Price ($)":618470
+    },
+    {
+        "Area (sq ft)":3280,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Vincentton",
+        "Age of Property":59,
+        "Price ($)":146064
+    },
+    {
+        "Area (sq ft)":1607,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Brianland",
+        "Age of Property":73,
+        "Price ($)":129480
+    },
+    {
+        "Area (sq ft)":644,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Garciashire",
+        "Age of Property":24,
+        "Price ($)":598759
+    },
+    {
+        "Area (sq ft)":587,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Rogersland",
+        "Age of Property":89,
+        "Price ($)":981879
+    },
+    {
+        "Area (sq ft)":2256,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Lake Justin",
+        "Age of Property":92,
+        "Price ($)":155307
+    },
+    {
+        "Area (sq ft)":4768,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"South Daniel",
+        "Age of Property":35,
+        "Price ($)":221278
+    },
+    {
+        "Area (sq ft)":608,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Bushfort",
+        "Age of Property":96,
+        "Price ($)":436973
+    },
+    {
+        "Area (sq ft)":855,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"New Donnahaven",
+        "Age of Property":62,
+        "Price ($)":165472
+    },
+    {
+        "Area (sq ft)":4426,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Kimberlychester",
+        "Age of Property":99,
+        "Price ($)":732558
+    },
+    {
+        "Area (sq ft)":911,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Julianmouth",
+        "Age of Property":60,
+        "Price ($)":288566
+    },
+    {
+        "Area (sq ft)":2118,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Karinachester",
+        "Age of Property":5,
+        "Price ($)":995908
+    },
+    {
+        "Area (sq ft)":3703,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Lake Stephanieberg",
+        "Age of Property":33,
+        "Price ($)":619084
+    },
+    {
+        "Area (sq ft)":4549,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Port Lorimouth",
+        "Age of Property":95,
+        "Price ($)":164176
+    },
+    {
+        "Area (sq ft)":3596,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"South Edward",
+        "Age of Property":33,
+        "Price ($)":799647
+    },
+    {
+        "Area (sq ft)":853,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Fitzpatrickfurt",
+        "Age of Property":62,
+        "Price ($)":925789
+    },
+    {
+        "Area (sq ft)":1268,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"South Angelica",
+        "Age of Property":46,
+        "Price ($)":226725
+    },
+    {
+        "Area (sq ft)":4814,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Lake Ashleyside",
+        "Age of Property":9,
+        "Price ($)":744408
+    },
+    {
+        "Area (sq ft)":3448,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"West Valerie",
+        "Age of Property":6,
+        "Price ($)":901643
+    },
+    {
+        "Area (sq ft)":4685,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Williamsburgh",
+        "Age of Property":28,
+        "Price ($)":657333
+    },
+    {
+        "Area (sq ft)":2822,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Lake Katherine",
+        "Age of Property":51,
+        "Price ($)":873731
+    },
+    {
+        "Area (sq ft)":4976,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Hessberg",
+        "Age of Property":9,
+        "Price ($)":647476
+    },
+    {
+        "Area (sq ft)":3612,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"East Tanya",
+        "Age of Property":13,
+        "Price ($)":348560
+    },
+    {
+        "Area (sq ft)":2822,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Carlsonfurt",
+        "Age of Property":57,
+        "Price ($)":192684
+    },
+    {
+        "Area (sq ft)":1820,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Kevinburgh",
+        "Age of Property":98,
+        "Price ($)":733805
+    },
+    {
+        "Area (sq ft)":879,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Erinland",
+        "Age of Property":64,
+        "Price ($)":103717
+    },
+    {
+        "Area (sq ft)":4779,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Lake Brittanyburgh",
+        "Age of Property":33,
+        "Price ($)":360516
+    },
+    {
+        "Area (sq ft)":777,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"South Garyland",
+        "Age of Property":73,
+        "Price ($)":935604
+    },
+    {
+        "Area (sq ft)":2050,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Lake Ashley",
+        "Age of Property":98,
+        "Price ($)":308232
+    },
+    {
+        "Area (sq ft)":811,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"North Jamesfort",
+        "Age of Property":96,
+        "Price ($)":492220
+    },
+    {
+        "Area (sq ft)":3951,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Christianville",
+        "Age of Property":65,
+        "Price ($)":299925
+    },
+    {
+        "Area (sq ft)":1470,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Lake Jason",
+        "Age of Property":44,
+        "Price ($)":373901
+    },
+    {
+        "Area (sq ft)":2803,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Batesshire",
+        "Age of Property":46,
+        "Price ($)":860979
+    },
+    {
+        "Area (sq ft)":2324,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"South Christopher",
+        "Age of Property":82,
+        "Price ($)":437537
+    },
+    {
+        "Area (sq ft)":1484,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Barnesbury",
+        "Age of Property":56,
+        "Price ($)":181095
+    },
+    {
+        "Area (sq ft)":3266,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"West Susan",
+        "Age of Property":56,
+        "Price ($)":420954
+    },
+    {
+        "Area (sq ft)":3607,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Gregoryville",
+        "Age of Property":6,
+        "Price ($)":615041
+    },
+    {
+        "Area (sq ft)":1857,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"North Casey",
+        "Age of Property":20,
+        "Price ($)":146061
+    },
+    {
+        "Area (sq ft)":1481,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Brandonfurt",
+        "Age of Property":76,
+        "Price ($)":514695
+    },
+    {
+        "Area (sq ft)":3703,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Devinburgh",
+        "Age of Property":15,
+        "Price ($)":227953
+    },
+    {
+        "Area (sq ft)":4821,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"East Robert",
+        "Age of Property":96,
+        "Price ($)":534026
+    },
+    {
+        "Area (sq ft)":1078,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"East Paul",
+        "Age of Property":49,
+        "Price ($)":652562
+    },
+    {
+        "Area (sq ft)":4854,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Lindaville",
+        "Age of Property":12,
+        "Price ($)":646466
+    },
+    {
+        "Area (sq ft)":1917,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"West Shelby",
+        "Age of Property":75,
+        "Price ($)":137125
+    },
+    {
+        "Area (sq ft)":993,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Jessicachester",
+        "Age of Property":71,
+        "Price ($)":973202
+    },
+    {
+        "Area (sq ft)":4968,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"New Jared",
+        "Age of Property":11,
+        "Price ($)":435888
+    },
+    {
+        "Area (sq ft)":4976,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Port Carolinemouth",
+        "Age of Property":42,
+        "Price ($)":54493
+    },
+    {
+        "Area (sq ft)":4381,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"New Brittany",
+        "Age of Property":58,
+        "Price ($)":800737
+    },
+    {
+        "Area (sq ft)":3555,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"New Tammyville",
+        "Age of Property":16,
+        "Price ($)":104167
+    },
+    {
+        "Area (sq ft)":888,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"West Jeffrey",
+        "Age of Property":44,
+        "Price ($)":71161
+    },
+    {
+        "Area (sq ft)":1441,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Foxland",
+        "Age of Property":23,
+        "Price ($)":880334
+    },
+    {
+        "Area (sq ft)":547,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Lake Donald",
+        "Age of Property":23,
+        "Price ($)":522209
+    },
+    {
+        "Area (sq ft)":4188,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Churchport",
+        "Age of Property":53,
+        "Price ($)":598737
+    },
+    {
+        "Area (sq ft)":1427,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"West Wesleyborough",
+        "Age of Property":96,
+        "Price ($)":58438
+    },
+    {
+        "Area (sq ft)":3411,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Markberg",
+        "Age of Property":24,
+        "Price ($)":494963
+    },
+    {
+        "Area (sq ft)":4452,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"New Tim",
+        "Age of Property":87,
+        "Price ($)":357252
+    },
+    {
+        "Area (sq ft)":2946,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"East Heather",
+        "Age of Property":87,
+        "Price ($)":826188
+    },
+    {
+        "Area (sq ft)":4899,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Garyshire",
+        "Age of Property":81,
+        "Price ($)":724158
+    },
+    {
+        "Area (sq ft)":1313,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Lake Garytown",
+        "Age of Property":70,
+        "Price ($)":151831
+    },
+    {
+        "Area (sq ft)":1809,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Lake Sandrachester",
+        "Age of Property":98,
+        "Price ($)":592441
+    },
+    {
+        "Area (sq ft)":4223,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"New Joel",
+        "Age of Property":12,
+        "Price ($)":650976
+    },
+    {
+        "Area (sq ft)":4358,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"North Michaelchester",
+        "Age of Property":16,
+        "Price ($)":907742
+    },
+    {
+        "Area (sq ft)":519,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"North Michael",
+        "Age of Property":36,
+        "Price ($)":949737
+    },
+    {
+        "Area (sq ft)":3809,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"New Spencermouth",
+        "Age of Property":59,
+        "Price ($)":468693
+    },
+    {
+        "Area (sq ft)":3206,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"East Bryan",
+        "Age of Property":88,
+        "Price ($)":379419
+    },
+    {
+        "Area (sq ft)":2746,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"North Larry",
+        "Age of Property":21,
+        "Price ($)":640757
+    },
+    {
+        "Area (sq ft)":4088,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Port Christopher",
+        "Age of Property":71,
+        "Price ($)":201991
+    },
+    {
+        "Area (sq ft)":1132,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"New Nicoleland",
+        "Age of Property":44,
+        "Price ($)":280862
+    },
+    {
+        "Area (sq ft)":2210,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Port Aliciaville",
+        "Age of Property":14,
+        "Price ($)":969963
+    },
+    {
+        "Area (sq ft)":4606,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Brianton",
+        "Age of Property":72,
+        "Price ($)":662534
+    },
+    {
+        "Area (sq ft)":3283,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Morganview",
+        "Age of Property":97,
+        "Price ($)":646641
+    },
+    {
+        "Area (sq ft)":4786,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Andrademouth",
+        "Age of Property":18,
+        "Price ($)":631578
+    },
+    {
+        "Area (sq ft)":4675,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Annamouth",
+        "Age of Property":45,
+        "Price ($)":968578
+    },
+    {
+        "Area (sq ft)":2726,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"East Rachel",
+        "Age of Property":33,
+        "Price ($)":932964
+    },
+    {
+        "Area (sq ft)":544,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Port Kathy",
+        "Age of Property":86,
+        "Price ($)":418829
+    },
+    {
+        "Area (sq ft)":745,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"New Robert",
+        "Age of Property":31,
+        "Price ($)":790896
+    },
+    {
+        "Area (sq ft)":3654,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"West Keith",
+        "Age of Property":65,
+        "Price ($)":733374
+    },
+    {
+        "Area (sq ft)":1179,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"North Wendyview",
+        "Age of Property":55,
+        "Price ($)":857346
+    },
+    {
+        "Area (sq ft)":3656,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Andrewshire",
+        "Age of Property":39,
+        "Price ($)":627726
+    },
+    {
+        "Area (sq ft)":1889,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Port James",
+        "Age of Property":2,
+        "Price ($)":145730
+    },
+    {
+        "Area (sq ft)":897,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Christopherfurt",
+        "Age of Property":49,
+        "Price ($)":557773
+    },
+    {
+        "Area (sq ft)":1116,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Vanessaberg",
+        "Age of Property":13,
+        "Price ($)":132037
+    },
+    {
+        "Area (sq ft)":1399,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"West Justin",
+        "Age of Property":60,
+        "Price ($)":904219
+    },
+    {
+        "Area (sq ft)":2073,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"North Alexandraville",
+        "Age of Property":72,
+        "Price ($)":387659
+    },
+    {
+        "Area (sq ft)":3370,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Williamstown",
+        "Age of Property":30,
+        "Price ($)":439808
+    },
+    {
+        "Area (sq ft)":1696,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Changview",
+        "Age of Property":21,
+        "Price ($)":210957
+    },
+    {
+        "Area (sq ft)":3580,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"West Stephen",
+        "Age of Property":78,
+        "Price ($)":873766
+    },
+    {
+        "Area (sq ft)":750,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"West Haileybury",
+        "Age of Property":64,
+        "Price ($)":276607
+    },
+    {
+        "Area (sq ft)":1158,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Adamsfurt",
+        "Age of Property":46,
+        "Price ($)":713618
+    },
+    {
+        "Area (sq ft)":922,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"South Timothy",
+        "Age of Property":99,
+        "Price ($)":918713
+    },
+    {
+        "Area (sq ft)":1439,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Careyville",
+        "Age of Property":47,
+        "Price ($)":114281
+    },
+    {
+        "Area (sq ft)":3995,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Harrellville",
+        "Age of Property":99,
+        "Price ($)":471202
+    },
+    {
+        "Area (sq ft)":3433,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"North Calvin",
+        "Age of Property":19,
+        "Price ($)":338855
+    },
+    {
+        "Area (sq ft)":1239,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Buchananville",
+        "Age of Property":14,
+        "Price ($)":268938
+    },
+    {
+        "Area (sq ft)":4362,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Kevinstad",
+        "Age of Property":77,
+        "Price ($)":375713
+    },
+    {
+        "Area (sq ft)":1509,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Lake Maryfurt",
+        "Age of Property":18,
+        "Price ($)":378845
+    },
+    {
+        "Area (sq ft)":2287,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"East Leonard",
+        "Age of Property":77,
+        "Price ($)":894358
+    },
+    {
+        "Area (sq ft)":2027,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Port Danielport",
+        "Age of Property":38,
+        "Price ($)":384537
+    },
+    {
+        "Area (sq ft)":4175,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Deleonberg",
+        "Age of Property":78,
+        "Price ($)":946460
+    },
+    {
+        "Area (sq ft)":2839,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"East Lisa",
+        "Age of Property":49,
+        "Price ($)":191799
+    },
+    {
+        "Area (sq ft)":2798,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"East Rachaelmouth",
+        "Age of Property":30,
+        "Price ($)":955958
+    },
+    {
+        "Area (sq ft)":2809,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Andersonberg",
+        "Age of Property":54,
+        "Price ($)":925244
+    },
+    {
+        "Area (sq ft)":4744,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"South Douglasburgh",
+        "Age of Property":92,
+        "Price ($)":953846
+    },
+    {
+        "Area (sq ft)":1772,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"East Juan",
+        "Age of Property":84,
+        "Price ($)":62660
+    },
+    {
+        "Area (sq ft)":2408,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Anthonyberg",
+        "Age of Property":88,
+        "Price ($)":599771
+    },
+    {
+        "Area (sq ft)":4349,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Hollymouth",
+        "Age of Property":4,
+        "Price ($)":158560
+    },
+    {
+        "Area (sq ft)":1566,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Wrightshire",
+        "Age of Property":41,
+        "Price ($)":116486
+    },
+    {
+        "Area (sq ft)":4210,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"West Rayland",
+        "Age of Property":55,
+        "Price ($)":658168
+    },
+    {
+        "Area (sq ft)":1215,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Rachelville",
+        "Age of Property":34,
+        "Price ($)":86468
+    },
+    {
+        "Area (sq ft)":4819,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Lake Sophialand",
+        "Age of Property":73,
+        "Price ($)":148369
+    },
+    {
+        "Area (sq ft)":1787,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"South Seth",
+        "Age of Property":12,
+        "Price ($)":811675
+    },
+    {
+        "Area (sq ft)":1095,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Jillfurt",
+        "Age of Property":32,
+        "Price ($)":979026
+    },
+    {
+        "Area (sq ft)":1393,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"North William",
+        "Age of Property":40,
+        "Price ($)":989096
+    },
+    {
+        "Area (sq ft)":2180,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Colinland",
+        "Age of Property":45,
+        "Price ($)":443361
+    },
+    {
+        "Area (sq ft)":4992,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Lake Stephenmouth",
+        "Age of Property":87,
+        "Price ($)":971963
+    },
+    {
+        "Area (sq ft)":1251,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Juliefurt",
+        "Age of Property":59,
+        "Price ($)":939725
+    },
+    {
+        "Area (sq ft)":4747,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"South Kimberlyport",
+        "Age of Property":12,
+        "Price ($)":918428
+    },
+    {
+        "Area (sq ft)":954,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Santiagobury",
+        "Age of Property":88,
+        "Price ($)":131969
+    },
+    {
+        "Area (sq ft)":1056,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"South Benjaminview",
+        "Age of Property":5,
+        "Price ($)":676219
+    },
+    {
+        "Area (sq ft)":1322,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Parkertown",
+        "Age of Property":64,
+        "Price ($)":741372
+    },
+    {
+        "Area (sq ft)":625,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Chaneybury",
+        "Age of Property":61,
+        "Price ($)":596956
+    },
+    {
+        "Area (sq ft)":4187,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Port Kelsey",
+        "Age of Property":91,
+        "Price ($)":251812
+    },
+    {
+        "Area (sq ft)":672,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Adamfort",
+        "Age of Property":86,
+        "Price ($)":336252
+    },
+    {
+        "Area (sq ft)":4453,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"New Donna",
+        "Age of Property":12,
+        "Price ($)":684862
+    },
+    {
+        "Area (sq ft)":3066,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Sharonport",
+        "Age of Property":34,
+        "Price ($)":832215
+    },
+    {
+        "Area (sq ft)":2265,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"New Haileyland",
+        "Age of Property":9,
+        "Price ($)":355511
+    },
+    {
+        "Area (sq ft)":4262,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Meganburgh",
+        "Age of Property":79,
+        "Price ($)":548136
+    },
+    {
+        "Area (sq ft)":1790,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Andrewtown",
+        "Age of Property":19,
+        "Price ($)":466248
+    },
+    {
+        "Area (sq ft)":1718,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"New Shawnmouth",
+        "Age of Property":69,
+        "Price ($)":764375
+    },
+    {
+        "Area (sq ft)":3694,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Lake John",
+        "Age of Property":84,
+        "Price ($)":773467
+    },
+    {
+        "Area (sq ft)":727,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Jordanport",
+        "Age of Property":65,
+        "Price ($)":393543
+    },
+    {
+        "Area (sq ft)":2059,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"New Dianemouth",
+        "Age of Property":21,
+        "Price ($)":443119
+    },
+    {
+        "Area (sq ft)":2352,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Amandaburgh",
+        "Age of Property":73,
+        "Price ($)":972341
+    },
+    {
+        "Area (sq ft)":3385,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Gonzalezfurt",
+        "Age of Property":74,
+        "Price ($)":783740
+    },
+    {
+        "Area (sq ft)":3879,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Lake Jessica",
+        "Age of Property":87,
+        "Price ($)":179203
+    },
+    {
+        "Area (sq ft)":1392,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Christophershire",
+        "Age of Property":95,
+        "Price ($)":105438
+    },
+    {
+        "Area (sq ft)":3261,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Christinetown",
+        "Age of Property":100,
+        "Price ($)":111813
+    },
+    {
+        "Area (sq ft)":1203,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Curtisshire",
+        "Age of Property":11,
+        "Price ($)":629953
+    },
+    {
+        "Area (sq ft)":3960,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Wallaceport",
+        "Age of Property":86,
+        "Price ($)":139951
+    },
+    {
+        "Area (sq ft)":1011,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Spencermouth",
+        "Age of Property":41,
+        "Price ($)":831313
+    },
+    {
+        "Area (sq ft)":2273,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Port Lisamouth",
+        "Age of Property":91,
+        "Price ($)":707151
+    },
+    {
+        "Area (sq ft)":2347,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"North Blake",
+        "Age of Property":41,
+        "Price ($)":432108
+    },
+    {
+        "Area (sq ft)":2367,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Smithville",
+        "Age of Property":53,
+        "Price ($)":581541
+    },
+    {
+        "Area (sq ft)":3253,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"New Lauriehaven",
+        "Age of Property":51,
+        "Price ($)":426032
+    },
+    {
+        "Area (sq ft)":4243,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Andersonland",
+        "Age of Property":98,
+        "Price ($)":694571
+    },
+    {
+        "Area (sq ft)":2484,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"North Gary",
+        "Age of Property":6,
+        "Price ($)":55749
+    },
+    {
+        "Area (sq ft)":4991,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"West Reginald",
+        "Age of Property":1,
+        "Price ($)":314769
+    },
+    {
+        "Area (sq ft)":539,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"North Jacqueline",
+        "Age of Property":40,
+        "Price ($)":426443
+    },
+    {
+        "Area (sq ft)":3497,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Jacquelinechester",
+        "Age of Property":75,
+        "Price ($)":95814
+    },
+    {
+        "Area (sq ft)":915,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"North Hannah",
+        "Age of Property":59,
+        "Price ($)":288937
+    },
+    {
+        "Area (sq ft)":3401,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Port Thomas",
+        "Age of Property":93,
+        "Price ($)":976113
+    },
+    {
+        "Area (sq ft)":4618,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Chasebury",
+        "Age of Property":64,
+        "Price ($)":179600
+    },
+    {
+        "Area (sq ft)":957,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Robertsberg",
+        "Age of Property":68,
+        "Price ($)":909519
+    },
+    {
+        "Area (sq ft)":4283,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"North Linda",
+        "Age of Property":13,
+        "Price ($)":381438
+    },
+    {
+        "Area (sq ft)":3955,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Lake Dawn",
+        "Age of Property":63,
+        "Price ($)":357505
+    },
+    {
+        "Area (sq ft)":1370,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Port Margaret",
+        "Age of Property":90,
+        "Price ($)":393070
+    },
+    {
+        "Area (sq ft)":1869,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Hannahfort",
+        "Age of Property":93,
+        "Price ($)":70341
+    },
+    {
+        "Area (sq ft)":3879,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Williamsside",
+        "Age of Property":31,
+        "Price ($)":156188
+    },
+    {
+        "Area (sq ft)":4076,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Jacquelinefort",
+        "Age of Property":16,
+        "Price ($)":823476
+    },
+    {
+        "Area (sq ft)":1704,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Charlesville",
+        "Age of Property":96,
+        "Price ($)":663036
+    },
+    {
+        "Area (sq ft)":1192,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Codyland",
+        "Age of Property":45,
+        "Price ($)":802311
+    },
+    {
+        "Area (sq ft)":4907,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Lake Andrew",
+        "Age of Property":48,
+        "Price ($)":133153
+    },
+    {
+        "Area (sq ft)":4155,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Smithville",
+        "Age of Property":54,
+        "Price ($)":196238
+    },
+    {
+        "Area (sq ft)":4671,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Kathrynfort",
+        "Age of Property":11,
+        "Price ($)":838278
+    },
+    {
+        "Area (sq ft)":2906,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Alyssatown",
+        "Age of Property":84,
+        "Price ($)":737715
+    },
+    {
+        "Area (sq ft)":4000,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"West Brittany",
+        "Age of Property":21,
+        "Price ($)":644666
+    },
+    {
+        "Area (sq ft)":2287,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"North Stephen",
+        "Age of Property":23,
+        "Price ($)":325501
+    },
+    {
+        "Area (sq ft)":1790,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Port Christinestad",
+        "Age of Property":69,
+        "Price ($)":351793
+    },
+    {
+        "Area (sq ft)":4479,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"New Blakestad",
+        "Age of Property":65,
+        "Price ($)":356313
+    },
+    {
+        "Area (sq ft)":3813,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"West Ellenport",
+        "Age of Property":34,
+        "Price ($)":359410
+    },
+    {
+        "Area (sq ft)":2349,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Julieburgh",
+        "Age of Property":7,
+        "Price ($)":528378
+    },
+    {
+        "Area (sq ft)":2870,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Port Ricardo",
+        "Age of Property":2,
+        "Price ($)":664393
+    },
+    {
+        "Area (sq ft)":1885,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Jeromeshire",
+        "Age of Property":74,
+        "Price ($)":605500
+    },
+    {
+        "Area (sq ft)":4277,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"North Nicholasbury",
+        "Age of Property":83,
+        "Price ($)":77094
+    },
+    {
+        "Area (sq ft)":3561,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"West Eric",
+        "Age of Property":21,
+        "Price ($)":871965
+    },
+    {
+        "Area (sq ft)":1222,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"New Ian",
+        "Age of Property":61,
+        "Price ($)":610796
+    },
+    {
+        "Area (sq ft)":554,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Ronaldland",
+        "Age of Property":32,
+        "Price ($)":612480
+    },
+    {
+        "Area (sq ft)":802,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"North Scotthaven",
+        "Age of Property":31,
+        "Price ($)":735548
+    },
+    {
+        "Area (sq ft)":2929,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Wattstown",
+        "Age of Property":75,
+        "Price ($)":357811
+    },
+    {
+        "Area (sq ft)":848,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Michaelton",
+        "Age of Property":37,
+        "Price ($)":979770
+    },
+    {
+        "Area (sq ft)":3540,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"South Yvonneland",
+        "Age of Property":35,
+        "Price ($)":899252
+    },
+    {
+        "Area (sq ft)":4880,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"East Patriciaborough",
+        "Age of Property":43,
+        "Price ($)":717338
+    },
+    {
+        "Area (sq ft)":3761,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"East Kathystad",
+        "Age of Property":52,
+        "Price ($)":432662
+    },
+    {
+        "Area (sq ft)":2777,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Kellyview",
+        "Age of Property":69,
+        "Price ($)":748050
+    },
+    {
+        "Area (sq ft)":2692,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"New Brenda",
+        "Age of Property":21,
+        "Price ($)":706967
+    },
+    {
+        "Area (sq ft)":3372,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Brianahaven",
+        "Age of Property":43,
+        "Price ($)":288108
+    },
+    {
+        "Area (sq ft)":4469,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Lake Jeremiah",
+        "Age of Property":67,
+        "Price ($)":68560
+    },
+    {
+        "Area (sq ft)":1058,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Patriciamouth",
+        "Age of Property":92,
+        "Price ($)":706780
+    },
+    {
+        "Area (sq ft)":2180,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Montgomeryland",
+        "Age of Property":93,
+        "Price ($)":563082
+    },
+    {
+        "Area (sq ft)":4374,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Port Leah",
+        "Age of Property":25,
+        "Price ($)":74521
+    },
+    {
+        "Area (sq ft)":4120,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"West Amberton",
+        "Age of Property":62,
+        "Price ($)":254647
+    },
+    {
+        "Area (sq ft)":4274,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Colestad",
+        "Age of Property":98,
+        "Price ($)":400452
+    },
+    {
+        "Area (sq ft)":3163,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"West Jessica",
+        "Age of Property":64,
+        "Price ($)":178181
+    },
+    {
+        "Area (sq ft)":4131,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Port Davidville",
+        "Age of Property":96,
+        "Price ($)":730707
+    },
+    {
+        "Area (sq ft)":2005,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Wilsonchester",
+        "Age of Property":74,
+        "Price ($)":895553
+    },
+    {
+        "Area (sq ft)":4771,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Webbfort",
+        "Age of Property":36,
+        "Price ($)":576907
+    },
+    {
+        "Area (sq ft)":1153,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Silvastad",
+        "Age of Property":28,
+        "Price ($)":698550
+    },
+    {
+        "Area (sq ft)":1273,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"New Antonio",
+        "Age of Property":63,
+        "Price ($)":111648
+    },
+    {
+        "Area (sq ft)":1091,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Craigborough",
+        "Age of Property":0,
+        "Price ($)":360093
+    },
+    {
+        "Area (sq ft)":4731,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"East Elizabeth",
+        "Age of Property":35,
+        "Price ($)":603928
+    },
+    {
+        "Area (sq ft)":4629,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Derekfort",
+        "Age of Property":75,
+        "Price ($)":798958
+    },
+    {
+        "Area (sq ft)":4410,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Mcneiltown",
+        "Age of Property":84,
+        "Price ($)":312050
+    },
+    {
+        "Area (sq ft)":1393,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"West Karenview",
+        "Age of Property":46,
+        "Price ($)":831932
+    },
+    {
+        "Area (sq ft)":4863,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Mccarthyfort",
+        "Age of Property":84,
+        "Price ($)":299111
+    },
+    {
+        "Area (sq ft)":4745,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Erikatown",
+        "Age of Property":15,
+        "Price ($)":994486
+    },
+    {
+        "Area (sq ft)":3033,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Joneston",
+        "Age of Property":41,
+        "Price ($)":182186
+    },
+    {
+        "Area (sq ft)":3091,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Randallland",
+        "Age of Property":82,
+        "Price ($)":834790
+    },
+    {
+        "Area (sq ft)":3878,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"West Justinburgh",
+        "Age of Property":50,
+        "Price ($)":656018
+    },
+    {
+        "Area (sq ft)":661,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"West Brian",
+        "Age of Property":9,
+        "Price ($)":108145
+    },
+    {
+        "Area (sq ft)":3821,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Richardsonside",
+        "Age of Property":79,
+        "Price ($)":574900
+    },
+    {
+        "Area (sq ft)":2240,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Port Kelsey",
+        "Age of Property":98,
+        "Price ($)":547718
+    },
+    {
+        "Area (sq ft)":1444,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Rogerschester",
+        "Age of Property":64,
+        "Price ($)":861425
+    },
+    {
+        "Area (sq ft)":1968,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"South Davidmouth",
+        "Age of Property":51,
+        "Price ($)":549514
+    },
+    {
+        "Area (sq ft)":2092,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"South Williammouth",
+        "Age of Property":30,
+        "Price ($)":122113
+    },
+    {
+        "Area (sq ft)":2319,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Lake Amyton",
+        "Age of Property":66,
+        "Price ($)":526513
+    },
+    {
+        "Area (sq ft)":4954,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Port Miranda",
+        "Age of Property":30,
+        "Price ($)":647422
+    },
+    {
+        "Area (sq ft)":2516,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Catherineland",
+        "Age of Property":70,
+        "Price ($)":337563
+    },
+    {
+        "Area (sq ft)":3789,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Port Sarah",
+        "Age of Property":76,
+        "Price ($)":920918
+    },
+    {
+        "Area (sq ft)":4975,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"North Steven",
+        "Age of Property":25,
+        "Price ($)":680123
+    },
+    {
+        "Area (sq ft)":1635,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Juliaview",
+        "Age of Property":73,
+        "Price ($)":361790
+    },
+    {
+        "Area (sq ft)":941,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"South Joeburgh",
+        "Age of Property":47,
+        "Price ($)":459740
+    },
+    {
+        "Area (sq ft)":983,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"New Jacquelineberg",
+        "Age of Property":80,
+        "Price ($)":187696
+    },
+    {
+        "Area (sq ft)":3634,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Lake Jesus",
+        "Age of Property":87,
+        "Price ($)":149967
+    },
+    {
+        "Area (sq ft)":1013,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"East Natalie",
+        "Age of Property":92,
+        "Price ($)":357607
+    },
+    {
+        "Area (sq ft)":978,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Thompsonview",
+        "Age of Property":95,
+        "Price ($)":330378
+    },
+    {
+        "Area (sq ft)":2503,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Lake Scott",
+        "Age of Property":44,
+        "Price ($)":266333
+    },
+    {
+        "Area (sq ft)":1817,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"New Maryton",
+        "Age of Property":100,
+        "Price ($)":746892
+    },
+    {
+        "Area (sq ft)":2980,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"North Kennethchester",
+        "Age of Property":46,
+        "Price ($)":678903
+    },
+    {
+        "Area (sq ft)":3408,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"West Kevin",
+        "Age of Property":62,
+        "Price ($)":926807
+    },
+    {
+        "Area (sq ft)":2130,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"East Amyfort",
+        "Age of Property":96,
+        "Price ($)":983726
+    },
+    {
+        "Area (sq ft)":3208,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"East James",
+        "Age of Property":87,
+        "Price ($)":936261
+    },
+    {
+        "Area (sq ft)":2417,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Lake Leahton",
+        "Age of Property":3,
+        "Price ($)":115137
+    },
+    {
+        "Area (sq ft)":778,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Port Carolmouth",
+        "Age of Property":29,
+        "Price ($)":237502
+    },
+    {
+        "Area (sq ft)":881,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"South Roberthaven",
+        "Age of Property":49,
+        "Price ($)":519281
+    },
+    {
+        "Area (sq ft)":3681,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Adamsport",
+        "Age of Property":48,
+        "Price ($)":587094
+    },
+    {
+        "Area (sq ft)":4793,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"South Ashleyside",
+        "Age of Property":28,
+        "Price ($)":677097
+    },
+    {
+        "Area (sq ft)":4093,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Elliottton",
+        "Age of Property":31,
+        "Price ($)":823021
+    },
+    {
+        "Area (sq ft)":3346,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"New Leeland",
+        "Age of Property":51,
+        "Price ($)":462483
+    },
+    {
+        "Area (sq ft)":4715,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"New Christinabury",
+        "Age of Property":94,
+        "Price ($)":821480
+    },
+    {
+        "Area (sq ft)":4233,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"East Nicholas",
+        "Age of Property":67,
+        "Price ($)":609113
+    },
+    {
+        "Area (sq ft)":2158,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Karentown",
+        "Age of Property":27,
+        "Price ($)":677571
+    },
+    {
+        "Area (sq ft)":4717,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Dodsonberg",
+        "Age of Property":6,
+        "Price ($)":160725
+    },
+    {
+        "Area (sq ft)":4263,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"New Melanie",
+        "Age of Property":82,
+        "Price ($)":320404
+    },
+    {
+        "Area (sq ft)":4852,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Lake Sarah",
+        "Age of Property":16,
+        "Price ($)":616811
+    },
+    {
+        "Area (sq ft)":4840,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Lake Allenmouth",
+        "Age of Property":51,
+        "Price ($)":823332
+    },
+    {
+        "Area (sq ft)":1176,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Clarkmouth",
+        "Age of Property":95,
+        "Price ($)":139875
+    },
+    {
+        "Area (sq ft)":2357,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"New Danieltown",
+        "Age of Property":79,
+        "Price ($)":413434
+    },
+    {
+        "Area (sq ft)":4226,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"South Jeffreyview",
+        "Age of Property":92,
+        "Price ($)":534060
+    },
+    {
+        "Area (sq ft)":4018,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"North Tammy",
+        "Age of Property":52,
+        "Price ($)":932150
+    },
+    {
+        "Area (sq ft)":2447,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Mendezland",
+        "Age of Property":54,
+        "Price ($)":479352
+    },
+    {
+        "Area (sq ft)":2433,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Lake Kevinside",
+        "Age of Property":77,
+        "Price ($)":518898
+    },
+    {
+        "Area (sq ft)":3721,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Nguyenland",
+        "Age of Property":33,
+        "Price ($)":165508
+    },
+    {
+        "Area (sq ft)":624,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"South Tracey",
+        "Age of Property":68,
+        "Price ($)":340955
+    },
+    {
+        "Area (sq ft)":4565,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Harrisfurt",
+        "Age of Property":51,
+        "Price ($)":270425
+    },
+    {
+        "Area (sq ft)":2777,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"South Scott",
+        "Age of Property":20,
+        "Price ($)":114370
+    },
+    {
+        "Area (sq ft)":4044,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"North Joseph",
+        "Age of Property":73,
+        "Price ($)":266445
+    },
+    {
+        "Area (sq ft)":2136,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Sarahhaven",
+        "Age of Property":26,
+        "Price ($)":126367
+    },
+    {
+        "Area (sq ft)":2762,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"North Michaelburgh",
+        "Age of Property":34,
+        "Price ($)":375870
+    },
+    {
+        "Area (sq ft)":4960,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"West Samanthamouth",
+        "Age of Property":80,
+        "Price ($)":68822
+    },
+    {
+        "Area (sq ft)":3263,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"South Joeton",
+        "Age of Property":48,
+        "Price ($)":770462
+    },
+    {
+        "Area (sq ft)":2738,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"North Carlborough",
+        "Age of Property":45,
+        "Price ($)":707290
+    },
+    {
+        "Area (sq ft)":2746,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Derekton",
+        "Age of Property":87,
+        "Price ($)":993314
+    },
+    {
+        "Area (sq ft)":4308,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Andersonborough",
+        "Age of Property":86,
+        "Price ($)":875116
+    },
+    {
+        "Area (sq ft)":1776,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Pamstad",
+        "Age of Property":54,
+        "Price ($)":283346
+    },
+    {
+        "Area (sq ft)":1593,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Melissafort",
+        "Age of Property":9,
+        "Price ($)":57782
+    },
+    {
+        "Area (sq ft)":1627,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Malonemouth",
+        "Age of Property":77,
+        "Price ($)":617109
+    },
+    {
+        "Area (sq ft)":3768,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Robertfort",
+        "Age of Property":59,
+        "Price ($)":387838
+    },
+    {
+        "Area (sq ft)":2781,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Lake Janetport",
+        "Age of Property":42,
+        "Price ($)":985667
+    },
+    {
+        "Area (sq ft)":1479,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Lake Ian",
+        "Age of Property":82,
+        "Price ($)":485053
+    },
+    {
+        "Area (sq ft)":596,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Deanport",
+        "Age of Property":98,
+        "Price ($)":780586
+    },
+    {
+        "Area (sq ft)":2026,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Atkinsonburgh",
+        "Age of Property":16,
+        "Price ($)":180325
+    },
+    {
+        "Area (sq ft)":1750,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Johnmouth",
+        "Age of Property":0,
+        "Price ($)":202219
+    },
+    {
+        "Area (sq ft)":3269,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Jeffreyside",
+        "Age of Property":9,
+        "Price ($)":257603
+    },
+    {
+        "Area (sq ft)":1067,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Lake Theresaton",
+        "Age of Property":32,
+        "Price ($)":862921
+    },
+    {
+        "Area (sq ft)":3886,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Michelleton",
+        "Age of Property":9,
+        "Price ($)":233110
+    },
+    {
+        "Area (sq ft)":1078,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Richardton",
+        "Age of Property":75,
+        "Price ($)":467916
+    },
+    {
+        "Area (sq ft)":4116,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Ballshire",
+        "Age of Property":91,
+        "Price ($)":291473
+    },
+    {
+        "Area (sq ft)":1886,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"South Marcus",
+        "Age of Property":85,
+        "Price ($)":237895
+    },
+    {
+        "Area (sq ft)":1266,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"North Hannahfurt",
+        "Age of Property":21,
+        "Price ($)":729774
+    },
+    {
+        "Area (sq ft)":4595,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"North Derrick",
+        "Age of Property":9,
+        "Price ($)":282507
+    },
+    {
+        "Area (sq ft)":1740,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"New Rebeccaville",
+        "Age of Property":39,
+        "Price ($)":177574
+    },
+    {
+        "Area (sq ft)":2823,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Christinatown",
+        "Age of Property":97,
+        "Price ($)":531015
+    },
+    {
+        "Area (sq ft)":4142,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Port Lisa",
+        "Age of Property":62,
+        "Price ($)":969413
+    },
+    {
+        "Area (sq ft)":725,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Hernandezstad",
+        "Age of Property":5,
+        "Price ($)":390375
+    },
+    {
+        "Area (sq ft)":3753,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Jasonton",
+        "Age of Property":60,
+        "Price ($)":860989
+    },
+    {
+        "Area (sq ft)":3359,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Teresaburgh",
+        "Age of Property":92,
+        "Price ($)":471096
+    },
+    {
+        "Area (sq ft)":4547,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"East Larry",
+        "Age of Property":45,
+        "Price ($)":859243
+    },
+    {
+        "Area (sq ft)":4994,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Williamsbury",
+        "Age of Property":68,
+        "Price ($)":879936
+    },
+    {
+        "Area (sq ft)":2104,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"South Brandyland",
+        "Age of Property":14,
+        "Price ($)":517793
+    },
+    {
+        "Area (sq ft)":4678,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Lake Tanyashire",
+        "Age of Property":11,
+        "Price ($)":980642
+    },
+    {
+        "Area (sq ft)":4380,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Ramirezburgh",
+        "Age of Property":67,
+        "Price ($)":798396
+    },
+    {
+        "Area (sq ft)":662,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"East Dorothyside",
+        "Age of Property":21,
+        "Price ($)":999354
+    },
+    {
+        "Area (sq ft)":1693,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Anthonymouth",
+        "Age of Property":92,
+        "Price ($)":662906
+    },
+    {
+        "Area (sq ft)":3019,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Alexstad",
+        "Age of Property":70,
+        "Price ($)":713072
+    },
+    {
+        "Area (sq ft)":512,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Ingramhaven",
+        "Age of Property":9,
+        "Price ($)":991038
+    },
+    {
+        "Area (sq ft)":4318,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Turnerfurt",
+        "Age of Property":93,
+        "Price ($)":246324
+    },
+    {
+        "Area (sq ft)":780,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Boltonland",
+        "Age of Property":10,
+        "Price ($)":836470
+    },
+    {
+        "Area (sq ft)":2457,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Lake Samantha",
+        "Age of Property":89,
+        "Price ($)":502307
+    },
+    {
+        "Area (sq ft)":2054,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"New John",
+        "Age of Property":10,
+        "Price ($)":486508
+    },
+    {
+        "Area (sq ft)":3163,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Cardenasstad",
+        "Age of Property":2,
+        "Price ($)":292741
+    },
+    {
+        "Area (sq ft)":1129,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Karenfort",
+        "Age of Property":77,
+        "Price ($)":970541
+    },
+    {
+        "Area (sq ft)":3468,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Markborough",
+        "Age of Property":98,
+        "Price ($)":200477
+    },
+    {
+        "Area (sq ft)":1218,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Lake John",
+        "Age of Property":84,
+        "Price ($)":356628
+    },
+    {
+        "Area (sq ft)":4265,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Port Annashire",
+        "Age of Property":49,
+        "Price ($)":451945
+    },
+    {
+        "Area (sq ft)":3956,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Clarkburgh",
+        "Age of Property":95,
+        "Price ($)":956526
+    },
+    {
+        "Area (sq ft)":735,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Lake Benjamin",
+        "Age of Property":57,
+        "Price ($)":306922
+    },
+    {
+        "Area (sq ft)":3068,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"North Markbury",
+        "Age of Property":39,
+        "Price ($)":331539
+    },
+    {
+        "Area (sq ft)":675,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Valentinehaven",
+        "Age of Property":11,
+        "Price ($)":186770
+    },
+    {
+        "Area (sq ft)":3196,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Garciaport",
+        "Age of Property":75,
+        "Price ($)":370378
+    },
+    {
+        "Area (sq ft)":4395,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Millershire",
+        "Age of Property":89,
+        "Price ($)":380392
+    },
+    {
+        "Area (sq ft)":4122,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"New Carolburgh",
+        "Age of Property":91,
+        "Price ($)":763764
+    },
+    {
+        "Area (sq ft)":3990,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"New Lucasborough",
+        "Age of Property":8,
+        "Price ($)":738518
+    },
+    {
+        "Area (sq ft)":584,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Leahhaven",
+        "Age of Property":85,
+        "Price ($)":67875
+    },
+    {
+        "Area (sq ft)":3075,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"East Julie",
+        "Age of Property":86,
+        "Price ($)":677471
+    },
+    {
+        "Area (sq ft)":3941,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"North James",
+        "Age of Property":96,
+        "Price ($)":58114
+    },
+    {
+        "Area (sq ft)":1420,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Lake Kennethhaven",
+        "Age of Property":93,
+        "Price ($)":742336
+    },
+    {
+        "Area (sq ft)":1915,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Baileyview",
+        "Age of Property":100,
+        "Price ($)":62353
+    },
+    {
+        "Area (sq ft)":3600,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"North Shawnville",
+        "Age of Property":68,
+        "Price ($)":275449
+    },
+    {
+        "Area (sq ft)":1358,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"East Samuelhaven",
+        "Age of Property":46,
+        "Price ($)":762274
+    },
+    {
+        "Area (sq ft)":2366,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Knightville",
+        "Age of Property":57,
+        "Price ($)":349983
+    },
+    {
+        "Area (sq ft)":2317,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"New Johnbury",
+        "Age of Property":65,
+        "Price ($)":820325
+    },
+    {
+        "Area (sq ft)":1644,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Stephensport",
+        "Age of Property":61,
+        "Price ($)":354661
+    },
+    {
+        "Area (sq ft)":1309,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Leetown",
+        "Age of Property":98,
+        "Price ($)":164326
+    },
+    {
+        "Area (sq ft)":844,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Racheltown",
+        "Age of Property":3,
+        "Price ($)":778250
+    },
+    {
+        "Area (sq ft)":1129,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Matthewstad",
+        "Age of Property":88,
+        "Price ($)":768151
+    },
+    {
+        "Area (sq ft)":3031,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"South Melissa",
+        "Age of Property":69,
+        "Price ($)":229467
+    },
+    {
+        "Area (sq ft)":542,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"North Elizabethshire",
+        "Age of Property":97,
+        "Price ($)":137608
+    },
+    {
+        "Area (sq ft)":582,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"New Shelby",
+        "Age of Property":80,
+        "Price ($)":839670
+    },
+    {
+        "Area (sq ft)":2072,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Davilabury",
+        "Age of Property":96,
+        "Price ($)":389096
+    },
+    {
+        "Area (sq ft)":3393,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"New Cameronhaven",
+        "Age of Property":40,
+        "Price ($)":66533
+    },
+    {
+        "Area (sq ft)":1026,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"New Edwardberg",
+        "Age of Property":45,
+        "Price ($)":487306
+    },
+    {
+        "Area (sq ft)":4998,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"South Kennethburgh",
+        "Age of Property":62,
+        "Price ($)":874267
+    },
+    {
+        "Area (sq ft)":2475,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Johnmouth",
+        "Age of Property":7,
+        "Price ($)":64290
+    },
+    {
+        "Area (sq ft)":3595,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Evelynport",
+        "Age of Property":44,
+        "Price ($)":904116
+    },
+    {
+        "Area (sq ft)":4836,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Sergioside",
+        "Age of Property":7,
+        "Price ($)":571584
+    },
+    {
+        "Area (sq ft)":2580,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Griffinmouth",
+        "Age of Property":57,
+        "Price ($)":439424
+    },
+    {
+        "Area (sq ft)":3931,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Port Daniel",
+        "Age of Property":80,
+        "Price ($)":192744
+    },
+    {
+        "Area (sq ft)":735,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"New Eric",
+        "Age of Property":80,
+        "Price ($)":790945
+    },
+    {
+        "Area (sq ft)":4083,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Gilesstad",
+        "Age of Property":22,
+        "Price ($)":260133
+    },
+    {
+        "Area (sq ft)":718,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Lake Juliehaven",
+        "Age of Property":94,
+        "Price ($)":142485
+    },
+    {
+        "Area (sq ft)":1828,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Annmouth",
+        "Age of Property":38,
+        "Price ($)":474644
+    },
+    {
+        "Area (sq ft)":1455,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Lake Nicholas",
+        "Age of Property":49,
+        "Price ($)":812501
+    },
+    {
+        "Area (sq ft)":4749,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Shawborough",
+        "Age of Property":7,
+        "Price ($)":332621
+    },
+    {
+        "Area (sq ft)":1752,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Lake Erinside",
+        "Age of Property":3,
+        "Price ($)":591663
+    },
+    {
+        "Area (sq ft)":3971,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Elizabethview",
+        "Age of Property":12,
+        "Price ($)":244628
+    },
+    {
+        "Area (sq ft)":1324,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"New Jenniferbury",
+        "Age of Property":34,
+        "Price ($)":230418
+    },
+    {
+        "Area (sq ft)":3771,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Richardchester",
+        "Age of Property":98,
+        "Price ($)":156524
+    },
+    {
+        "Area (sq ft)":926,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Marioview",
+        "Age of Property":56,
+        "Price ($)":427355
+    },
+    {
+        "Area (sq ft)":4090,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"New Ericfort",
+        "Age of Property":74,
+        "Price ($)":409256
+    },
+    {
+        "Area (sq ft)":797,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"East Sarahchester",
+        "Age of Property":30,
+        "Price ($)":651356
+    },
+    {
+        "Area (sq ft)":1846,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Lake Christopher",
+        "Age of Property":98,
+        "Price ($)":255029
+    },
+    {
+        "Area (sq ft)":3158,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Danstad",
+        "Age of Property":95,
+        "Price ($)":99920
+    },
+    {
+        "Area (sq ft)":1177,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"West Christy",
+        "Age of Property":35,
+        "Price ($)":426835
+    },
+    {
+        "Area (sq ft)":1178,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Lambertmouth",
+        "Age of Property":39,
+        "Price ($)":479524
+    },
+    {
+        "Area (sq ft)":4673,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"East Stevenville",
+        "Age of Property":99,
+        "Price ($)":729189
+    },
+    {
+        "Area (sq ft)":842,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"North Paulaville",
+        "Age of Property":2,
+        "Price ($)":321352
+    },
+    {
+        "Area (sq ft)":1425,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Smallmouth",
+        "Age of Property":55,
+        "Price ($)":55242
+    },
+    {
+        "Area (sq ft)":3643,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Port Davidside",
+        "Age of Property":25,
+        "Price ($)":560851
+    },
+    {
+        "Area (sq ft)":1069,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Lake Christopherborough",
+        "Age of Property":25,
+        "Price ($)":124166
+    },
+    {
+        "Area (sq ft)":1619,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Luismouth",
+        "Age of Property":41,
+        "Price ($)":504043
+    },
+    {
+        "Area (sq ft)":3981,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Haydenton",
+        "Age of Property":86,
+        "Price ($)":160096
+    },
+    {
+        "Area (sq ft)":4558,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"West Dianaside",
+        "Age of Property":16,
+        "Price ($)":128994
+    },
+    {
+        "Area (sq ft)":3528,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"North Deborahport",
+        "Age of Property":53,
+        "Price ($)":558189
+    },
+    {
+        "Area (sq ft)":3279,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"North Alejandro",
+        "Age of Property":18,
+        "Price ($)":732925
+    },
+    {
+        "Area (sq ft)":2755,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Port Jennifer",
+        "Age of Property":81,
+        "Price ($)":655918
+    },
+    {
+        "Area (sq ft)":3464,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Port Samanthaport",
+        "Age of Property":72,
+        "Price ($)":335128
+    },
+    {
+        "Area (sq ft)":1353,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Jonesborough",
+        "Age of Property":36,
+        "Price ($)":451784
+    },
+    {
+        "Area (sq ft)":2933,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Sheilaburgh",
+        "Age of Property":15,
+        "Price ($)":267767
+    },
+    {
+        "Area (sq ft)":2032,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"West Daniel",
+        "Age of Property":54,
+        "Price ($)":166848
+    },
+    {
+        "Area (sq ft)":892,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"East Stephanie",
+        "Age of Property":13,
+        "Price ($)":974059
+    },
+    {
+        "Area (sq ft)":4369,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Haleystad",
+        "Age of Property":94,
+        "Price ($)":921041
+    },
+    {
+        "Area (sq ft)":639,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"New Timothyborough",
+        "Age of Property":90,
+        "Price ($)":913428
+    },
+    {
+        "Area (sq ft)":3050,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"New Adamfort",
+        "Age of Property":57,
+        "Price ($)":496455
+    },
+    {
+        "Area (sq ft)":3787,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Lake Jacobberg",
+        "Age of Property":37,
+        "Price ($)":623528
+    },
+    {
+        "Area (sq ft)":651,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Ericaside",
+        "Age of Property":18,
+        "Price ($)":844667
+    },
+    {
+        "Area (sq ft)":1102,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Port Spencerstad",
+        "Age of Property":59,
+        "Price ($)":975237
+    },
+    {
+        "Area (sq ft)":2027,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Matthewschester",
+        "Age of Property":26,
+        "Price ($)":489547
+    },
+    {
+        "Area (sq ft)":2491,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Lake Shelly",
+        "Age of Property":90,
+        "Price ($)":598468
+    },
+    {
+        "Area (sq ft)":2387,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"West Johnbury",
+        "Age of Property":83,
+        "Price ($)":808598
+    },
+    {
+        "Area (sq ft)":2689,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"New Matthew",
+        "Age of Property":93,
+        "Price ($)":641549
+    },
+    {
+        "Area (sq ft)":886,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Lake Tinafort",
+        "Age of Property":94,
+        "Price ($)":720836
+    },
+    {
+        "Area (sq ft)":4593,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Bellfort",
+        "Age of Property":18,
+        "Price ($)":260088
+    },
+    {
+        "Area (sq ft)":4346,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"New Jason",
+        "Age of Property":18,
+        "Price ($)":738505
+    },
+    {
+        "Area (sq ft)":4800,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"New Jeffrey",
+        "Age of Property":50,
+        "Price ($)":993283
+    },
+    {
+        "Area (sq ft)":3368,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Lisaburgh",
+        "Age of Property":65,
+        "Price ($)":577349
+    },
+    {
+        "Area (sq ft)":1231,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Thomasland",
+        "Age of Property":59,
+        "Price ($)":890472
+    },
+    {
+        "Area (sq ft)":3000,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Greenhaven",
+        "Age of Property":48,
+        "Price ($)":485460
+    },
+    {
+        "Area (sq ft)":562,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Campbellhaven",
+        "Age of Property":63,
+        "Price ($)":594945
+    },
+    {
+        "Area (sq ft)":2537,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Grantberg",
+        "Age of Property":87,
+        "Price ($)":598171
+    },
+    {
+        "Area (sq ft)":4115,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Williamfurt",
+        "Age of Property":10,
+        "Price ($)":456005
+    },
+    {
+        "Area (sq ft)":815,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Cookhaven",
+        "Age of Property":0,
+        "Price ($)":374556
+    },
+    {
+        "Area (sq ft)":1555,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Jacobhaven",
+        "Age of Property":78,
+        "Price ($)":489363
+    },
+    {
+        "Area (sq ft)":2540,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Madelineside",
+        "Age of Property":63,
+        "Price ($)":998692
+    },
+    {
+        "Area (sq ft)":4713,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Port Brettside",
+        "Age of Property":91,
+        "Price ($)":825695
+    },
+    {
+        "Area (sq ft)":4496,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Lake Vincent",
+        "Age of Property":72,
+        "Price ($)":723836
+    },
+    {
+        "Area (sq ft)":1044,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Lake Kristopherborough",
+        "Age of Property":21,
+        "Price ($)":838695
+    },
+    {
+        "Area (sq ft)":3137,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Lake Laurachester",
+        "Age of Property":37,
+        "Price ($)":81968
+    },
+    {
+        "Area (sq ft)":3833,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Michelleside",
+        "Age of Property":56,
+        "Price ($)":222993
+    },
+    {
+        "Area (sq ft)":574,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"South Victoriaside",
+        "Age of Property":10,
+        "Price ($)":392480
+    },
+    {
+        "Area (sq ft)":1065,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Robertfurt",
+        "Age of Property":24,
+        "Price ($)":467280
+    },
+    {
+        "Area (sq ft)":628,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Loweview",
+        "Age of Property":97,
+        "Price ($)":105994
+    },
+    {
+        "Area (sq ft)":3955,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Stephenport",
+        "Age of Property":35,
+        "Price ($)":655625
+    },
+    {
+        "Area (sq ft)":1203,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Gamblefort",
+        "Age of Property":88,
+        "Price ($)":469168
+    },
+    {
+        "Area (sq ft)":1289,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Francoton",
+        "Age of Property":22,
+        "Price ($)":122266
+    },
+    {
+        "Area (sq ft)":3829,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Port Sophia",
+        "Age of Property":95,
+        "Price ($)":541261
+    },
+    {
+        "Area (sq ft)":577,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Helenbury",
+        "Age of Property":53,
+        "Price ($)":225133
+    },
+    {
+        "Area (sq ft)":4075,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Christopherside",
+        "Age of Property":96,
+        "Price ($)":519743
+    },
+    {
+        "Area (sq ft)":2591,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"West Sean",
+        "Age of Property":36,
+        "Price ($)":944614
+    },
+    {
+        "Area (sq ft)":1543,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"New Kaylaside",
+        "Age of Property":98,
+        "Price ($)":532831
+    },
+    {
+        "Area (sq ft)":2082,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Williamshire",
+        "Age of Property":31,
+        "Price ($)":588659
+    },
+    {
+        "Area (sq ft)":2957,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Drewmouth",
+        "Age of Property":20,
+        "Price ($)":590708
+    },
+    {
+        "Area (sq ft)":4087,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Lake Laura",
+        "Age of Property":45,
+        "Price ($)":521007
+    },
+    {
+        "Area (sq ft)":4671,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Lake Mariatown",
+        "Age of Property":63,
+        "Price ($)":971813
+    },
+    {
+        "Area (sq ft)":1523,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"North Craig",
+        "Age of Property":58,
+        "Price ($)":568090
+    },
+    {
+        "Area (sq ft)":3579,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"South Cassandrachester",
+        "Age of Property":27,
+        "Price ($)":394605
+    },
+    {
+        "Area (sq ft)":2419,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"New Justinton",
+        "Age of Property":81,
+        "Price ($)":456059
+    },
+    {
+        "Area (sq ft)":3383,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"East Johnton",
+        "Age of Property":79,
+        "Price ($)":345944
+    },
+    {
+        "Area (sq ft)":2252,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Justintown",
+        "Age of Property":87,
+        "Price ($)":574380
+    },
+    {
+        "Area (sq ft)":4250,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Baileyton",
+        "Age of Property":32,
+        "Price ($)":163875
+    },
+    {
+        "Area (sq ft)":4378,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Laurenhaven",
+        "Age of Property":98,
+        "Price ($)":945546
+    },
+    {
+        "Area (sq ft)":4357,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Castilloshire",
+        "Age of Property":53,
+        "Price ($)":874841
+    },
+    {
+        "Area (sq ft)":4598,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"South Carrieborough",
+        "Age of Property":38,
+        "Price ($)":673325
+    },
+    {
+        "Area (sq ft)":741,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"North Christopherbury",
+        "Age of Property":94,
+        "Price ($)":954834
+    },
+    {
+        "Area (sq ft)":968,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Gregville",
+        "Age of Property":38,
+        "Price ($)":146657
+    },
+    {
+        "Area (sq ft)":3301,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Masonhaven",
+        "Age of Property":15,
+        "Price ($)":283506
+    },
+    {
+        "Area (sq ft)":1887,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"New Christinestad",
+        "Age of Property":9,
+        "Price ($)":883917
+    },
+    {
+        "Area (sq ft)":1279,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Davisshire",
+        "Age of Property":81,
+        "Price ($)":983062
+    },
+    {
+        "Area (sq ft)":2141,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"New Bryan",
+        "Age of Property":54,
+        "Price ($)":798857
+    },
+    {
+        "Area (sq ft)":3717,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Mooremouth",
+        "Age of Property":48,
+        "Price ($)":128605
+    },
+    {
+        "Area (sq ft)":4504,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"New Bobport",
+        "Age of Property":19,
+        "Price ($)":913631
+    },
+    {
+        "Area (sq ft)":4804,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Port Jamesbury",
+        "Age of Property":40,
+        "Price ($)":137707
+    },
+    {
+        "Area (sq ft)":2545,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Port Stephanieberg",
+        "Age of Property":21,
+        "Price ($)":757342
+    },
+    {
+        "Area (sq ft)":1209,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Johnhaven",
+        "Age of Property":88,
+        "Price ($)":500155
+    },
+    {
+        "Area (sq ft)":2100,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Castilloland",
+        "Age of Property":72,
+        "Price ($)":278891
+    },
+    {
+        "Area (sq ft)":4822,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Wardburgh",
+        "Age of Property":85,
+        "Price ($)":707513
+    },
+    {
+        "Area (sq ft)":1829,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Halltown",
+        "Age of Property":4,
+        "Price ($)":914889
+    },
+    {
+        "Area (sq ft)":1642,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Port Cheryl",
+        "Age of Property":88,
+        "Price ($)":56329
+    },
+    {
+        "Area (sq ft)":581,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Tonymouth",
+        "Age of Property":35,
+        "Price ($)":994765
+    },
+    {
+        "Area (sq ft)":1126,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Clarkview",
+        "Age of Property":55,
+        "Price ($)":798716
+    },
+    {
+        "Area (sq ft)":3658,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Lisachester",
+        "Age of Property":61,
+        "Price ($)":199134
+    },
+    {
+        "Area (sq ft)":3287,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"North Matthew",
+        "Age of Property":77,
+        "Price ($)":871359
+    },
+    {
+        "Area (sq ft)":1092,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Adamside",
+        "Age of Property":6,
+        "Price ($)":916603
+    },
+    {
+        "Area (sq ft)":2361,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Lake Joytown",
+        "Age of Property":59,
+        "Price ($)":347506
+    },
+    {
+        "Area (sq ft)":3193,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Hartmouth",
+        "Age of Property":74,
+        "Price ($)":827251
+    },
+    {
+        "Area (sq ft)":2730,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"West Rachael",
+        "Age of Property":33,
+        "Price ($)":474423
+    },
+    {
+        "Area (sq ft)":2408,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Nelsonfort",
+        "Age of Property":100,
+        "Price ($)":120081
+    },
+    {
+        "Area (sq ft)":4435,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"South Pattyport",
+        "Age of Property":45,
+        "Price ($)":592444
+    },
+    {
+        "Area (sq ft)":1808,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Frankside",
+        "Age of Property":65,
+        "Price ($)":873440
+    },
+    {
+        "Area (sq ft)":1757,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Biancashire",
+        "Age of Property":27,
+        "Price ($)":244333
+    },
+    {
+        "Area (sq ft)":1981,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"New Rebecca",
+        "Age of Property":98,
+        "Price ($)":651787
+    },
+    {
+        "Area (sq ft)":4723,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"North Frank",
+        "Age of Property":93,
+        "Price ($)":478330
+    },
+    {
+        "Area (sq ft)":2195,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"North Charlesland",
+        "Age of Property":30,
+        "Price ($)":803850
+    },
+    {
+        "Area (sq ft)":3220,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Port Breanna",
+        "Age of Property":34,
+        "Price ($)":667471
+    },
+    {
+        "Area (sq ft)":4485,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Kathrynton",
+        "Age of Property":29,
+        "Price ($)":218421
+    },
+    {
+        "Area (sq ft)":4723,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Matthewstad",
+        "Age of Property":54,
+        "Price ($)":742988
+    },
+    {
+        "Area (sq ft)":3354,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Spencerburgh",
+        "Age of Property":22,
+        "Price ($)":933849
+    },
+    {
+        "Area (sq ft)":3137,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Port Jessica",
+        "Age of Property":80,
+        "Price ($)":614373
+    },
+    {
+        "Area (sq ft)":3141,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"East Johnchester",
+        "Age of Property":85,
+        "Price ($)":338710
+    },
+    {
+        "Area (sq ft)":3043,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"New Michaelburgh",
+        "Age of Property":47,
+        "Price ($)":817487
+    },
+    {
+        "Area (sq ft)":4576,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"North Teresahaven",
+        "Age of Property":72,
+        "Price ($)":107918
+    },
+    {
+        "Area (sq ft)":3807,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"New Royhaven",
+        "Age of Property":87,
+        "Price ($)":327085
+    },
+    {
+        "Area (sq ft)":1837,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"East Joshuaview",
+        "Age of Property":80,
+        "Price ($)":994341
+    },
+    {
+        "Area (sq ft)":3951,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Jennifershire",
+        "Age of Property":73,
+        "Price ($)":762609
+    },
+    {
+        "Area (sq ft)":2999,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Johnside",
+        "Age of Property":6,
+        "Price ($)":607454
+    },
+    {
+        "Area (sq ft)":4814,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Stanleyland",
+        "Age of Property":64,
+        "Price ($)":684495
+    },
+    {
+        "Area (sq ft)":1259,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"New Carolville",
+        "Age of Property":55,
+        "Price ($)":149163
+    },
+    {
+        "Area (sq ft)":2536,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"New Joshua",
+        "Age of Property":0,
+        "Price ($)":246068
+    },
+    {
+        "Area (sq ft)":4650,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Lake Abigail",
+        "Age of Property":19,
+        "Price ($)":420953
+    },
+    {
+        "Area (sq ft)":2619,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Deanside",
+        "Age of Property":44,
+        "Price ($)":380210
+    },
+    {
+        "Area (sq ft)":555,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"East Aliciamouth",
+        "Age of Property":97,
+        "Price ($)":633187
+    },
+    {
+        "Area (sq ft)":2426,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Finleyfort",
+        "Age of Property":1,
+        "Price ($)":346817
+    },
+    {
+        "Area (sq ft)":4198,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Jessicaville",
+        "Age of Property":88,
+        "Price ($)":337104
+    },
+    {
+        "Area (sq ft)":4348,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Michelleside",
+        "Age of Property":71,
+        "Price ($)":263819
+    },
+    {
+        "Area (sq ft)":4793,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Johnfort",
+        "Age of Property":23,
+        "Price ($)":979167
+    },
+    {
+        "Area (sq ft)":2186,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Davidville",
+        "Age of Property":74,
+        "Price ($)":238244
+    },
+    {
+        "Area (sq ft)":3145,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Lake Gregoryfort",
+        "Age of Property":6,
+        "Price ($)":75199
+    },
+    {
+        "Area (sq ft)":4235,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Franklinburgh",
+        "Age of Property":68,
+        "Price ($)":876184
+    },
+    {
+        "Area (sq ft)":4483,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"East David",
+        "Age of Property":91,
+        "Price ($)":214633
+    },
+    {
+        "Area (sq ft)":1187,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"West Elizabethton",
+        "Age of Property":23,
+        "Price ($)":688524
+    },
+    {
+        "Area (sq ft)":4002,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Robertburgh",
+        "Age of Property":26,
+        "Price ($)":817398
+    },
+    {
+        "Area (sq ft)":1977,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Lonnieborough",
+        "Age of Property":27,
+        "Price ($)":56911
+    },
+    {
+        "Area (sq ft)":4843,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"West Johnmouth",
+        "Age of Property":56,
+        "Price ($)":204186
+    },
+    {
+        "Area (sq ft)":4719,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Sandratown",
+        "Age of Property":2,
+        "Price ($)":863374
+    },
+    {
+        "Area (sq ft)":3351,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Gomezmouth",
+        "Age of Property":52,
+        "Price ($)":859498
+    },
+    {
+        "Area (sq ft)":3590,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Luisside",
+        "Age of Property":1,
+        "Price ($)":644871
+    },
+    {
+        "Area (sq ft)":1097,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"West Samuel",
+        "Age of Property":73,
+        "Price ($)":444282
+    },
+    {
+        "Area (sq ft)":1249,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"West Jennifer",
+        "Age of Property":5,
+        "Price ($)":222403
+    },
+    {
+        "Area (sq ft)":1161,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"West Jay",
+        "Age of Property":84,
+        "Price ($)":426828
+    },
+    {
+        "Area (sq ft)":3886,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Richardshire",
+        "Age of Property":82,
+        "Price ($)":129500
+    },
+    {
+        "Area (sq ft)":3438,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Cherylview",
+        "Age of Property":63,
+        "Price ($)":157428
+    },
+    {
+        "Area (sq ft)":1098,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Oconnellburgh",
+        "Age of Property":78,
+        "Price ($)":465034
+    },
+    {
+        "Area (sq ft)":3944,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"West Kathy",
+        "Age of Property":19,
+        "Price ($)":260753
+    },
+    {
+        "Area (sq ft)":1815,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"North Sherry",
+        "Age of Property":35,
+        "Price ($)":394585
+    },
+    {
+        "Area (sq ft)":4887,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"West Jason",
+        "Age of Property":86,
+        "Price ($)":868804
+    },
+    {
+        "Area (sq ft)":4223,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"New Christine",
+        "Age of Property":25,
+        "Price ($)":289763
+    },
+    {
+        "Area (sq ft)":4953,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"East Todd",
+        "Age of Property":62,
+        "Price ($)":349579
+    },
+    {
+        "Area (sq ft)":3320,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Michaelbury",
+        "Age of Property":96,
+        "Price ($)":210531
+    },
+    {
+        "Area (sq ft)":1921,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Jameschester",
+        "Age of Property":0,
+        "Price ($)":242728
+    },
+    {
+        "Area (sq ft)":4715,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Annetteside",
+        "Age of Property":55,
+        "Price ($)":110461
+    },
+    {
+        "Area (sq ft)":1961,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Chungville",
+        "Age of Property":35,
+        "Price ($)":529590
+    },
+    {
+        "Area (sq ft)":3401,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Patriciamouth",
+        "Age of Property":26,
+        "Price ($)":372609
+    },
+    {
+        "Area (sq ft)":1242,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Port Elizabethland",
+        "Age of Property":8,
+        "Price ($)":544024
+    },
+    {
+        "Area (sq ft)":3099,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"North Adam",
+        "Age of Property":31,
+        "Price ($)":320307
+    },
+    {
+        "Area (sq ft)":2328,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Parkmouth",
+        "Age of Property":3,
+        "Price ($)":838150
+    },
+    {
+        "Area (sq ft)":2664,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Howardton",
+        "Age of Property":89,
+        "Price ($)":180910
+    },
+    {
+        "Area (sq ft)":2024,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Wilkersonland",
+        "Age of Property":0,
+        "Price ($)":693733
+    },
+    {
+        "Area (sq ft)":1335,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Lynnburgh",
+        "Age of Property":38,
+        "Price ($)":627443
+    },
+    {
+        "Area (sq ft)":1305,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"North Allenshire",
+        "Age of Property":74,
+        "Price ($)":682820
+    },
+    {
+        "Area (sq ft)":1611,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Elizabethmouth",
+        "Age of Property":67,
+        "Price ($)":393497
+    },
+    {
+        "Area (sq ft)":4909,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"West William",
+        "Age of Property":85,
+        "Price ($)":128072
+    },
+    {
+        "Area (sq ft)":615,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Robersonshire",
+        "Age of Property":15,
+        "Price ($)":673870
+    },
+    {
+        "Area (sq ft)":729,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Youngside",
+        "Age of Property":39,
+        "Price ($)":58164
+    },
+    {
+        "Area (sq ft)":2017,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Levimouth",
+        "Age of Property":100,
+        "Price ($)":538390
+    },
+    {
+        "Area (sq ft)":896,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Rubenfurt",
+        "Age of Property":84,
+        "Price ($)":361494
+    },
+    {
+        "Area (sq ft)":4571,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Sethborough",
+        "Age of Property":59,
+        "Price ($)":852117
+    },
+    {
+        "Area (sq ft)":3982,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Arthurshire",
+        "Age of Property":92,
+        "Price ($)":711827
+    },
+    {
+        "Area (sq ft)":3202,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Stephaniemouth",
+        "Age of Property":91,
+        "Price ($)":604064
+    },
+    {
+        "Area (sq ft)":4426,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"East Richard",
+        "Age of Property":0,
+        "Price ($)":926674
+    },
+    {
+        "Area (sq ft)":1647,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Lake Zacharybury",
+        "Age of Property":95,
+        "Price ($)":688812
+    },
+    {
+        "Area (sq ft)":2399,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Smithmouth",
+        "Age of Property":83,
+        "Price ($)":272601
+    },
+    {
+        "Area (sq ft)":4249,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Hannahview",
+        "Age of Property":86,
+        "Price ($)":882673
+    },
+    {
+        "Area (sq ft)":3500,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Jacquelinefort",
+        "Age of Property":73,
+        "Price ($)":423435
+    },
+    {
+        "Area (sq ft)":1797,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Ramirezview",
+        "Age of Property":69,
+        "Price ($)":207718
+    },
+    {
+        "Area (sq ft)":2932,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Christophermouth",
+        "Age of Property":67,
+        "Price ($)":277895
+    },
+    {
+        "Area (sq ft)":4264,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"East Deanna",
+        "Age of Property":96,
+        "Price ($)":976312
+    },
+    {
+        "Area (sq ft)":4555,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Boonefurt",
+        "Age of Property":47,
+        "Price ($)":275638
+    },
+    {
+        "Area (sq ft)":4347,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Port Emilyfort",
+        "Age of Property":18,
+        "Price ($)":328775
+    },
+    {
+        "Area (sq ft)":4301,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"West Michaelside",
+        "Age of Property":97,
+        "Price ($)":779181
+    },
+    {
+        "Area (sq ft)":3305,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Lisaborough",
+        "Age of Property":41,
+        "Price ($)":894574
+    },
+    {
+        "Area (sq ft)":1015,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Collinsland",
+        "Age of Property":40,
+        "Price ($)":663068
+    },
+    {
+        "Area (sq ft)":1846,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"North Teresa",
+        "Age of Property":53,
+        "Price ($)":394757
+    },
+    {
+        "Area (sq ft)":2370,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Marissaburgh",
+        "Age of Property":20,
+        "Price ($)":572238
+    },
+    {
+        "Area (sq ft)":4760,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Robertmouth",
+        "Age of Property":43,
+        "Price ($)":752545
+    },
+    {
+        "Area (sq ft)":3343,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Bennettborough",
+        "Age of Property":95,
+        "Price ($)":691476
+    },
+    {
+        "Area (sq ft)":4164,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"South James",
+        "Age of Property":19,
+        "Price ($)":406350
+    },
+    {
+        "Area (sq ft)":1733,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Jonesfurt",
+        "Age of Property":75,
+        "Price ($)":497512
+    },
+    {
+        "Area (sq ft)":4253,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Robbinsmouth",
+        "Age of Property":66,
+        "Price ($)":398064
+    },
+    {
+        "Area (sq ft)":3751,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Port Michael",
+        "Age of Property":24,
+        "Price ($)":953687
+    },
+    {
+        "Area (sq ft)":4483,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Lake Tyronehaven",
+        "Age of Property":97,
+        "Price ($)":394257
+    },
+    {
+        "Area (sq ft)":1654,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"East Dylanmouth",
+        "Age of Property":36,
+        "Price ($)":888933
+    },
+    {
+        "Area (sq ft)":1222,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Port Kim",
+        "Age of Property":95,
+        "Price ($)":151128
+    },
+    {
+        "Area (sq ft)":1650,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Port Mark",
+        "Age of Property":25,
+        "Price ($)":856948
+    },
+    {
+        "Area (sq ft)":1541,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Kristinabury",
+        "Age of Property":31,
+        "Price ($)":214211
+    },
+    {
+        "Area (sq ft)":1905,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Port Davidhaven",
+        "Age of Property":95,
+        "Price ($)":699477
+    },
+    {
+        "Area (sq ft)":1491,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Moodyland",
+        "Age of Property":65,
+        "Price ($)":343393
+    },
+    {
+        "Area (sq ft)":1960,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Mariaview",
+        "Age of Property":2,
+        "Price ($)":385698
+    },
+    {
+        "Area (sq ft)":2220,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"New Leslietown",
+        "Age of Property":41,
+        "Price ($)":254625
+    },
+    {
+        "Area (sq ft)":2494,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"North Meganfurt",
+        "Age of Property":74,
+        "Price ($)":260206
+    },
+    {
+        "Area (sq ft)":551,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"New Jason",
+        "Age of Property":34,
+        "Price ($)":52439
+    },
+    {
+        "Area (sq ft)":1674,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"East Andrea",
+        "Age of Property":9,
+        "Price ($)":867355
+    },
+    {
+        "Area (sq ft)":2892,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Martinmouth",
+        "Age of Property":65,
+        "Price ($)":807035
+    },
+    {
+        "Area (sq ft)":2981,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Holtland",
+        "Age of Property":37,
+        "Price ($)":442127
+    },
+    {
+        "Area (sq ft)":2575,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Garnerberg",
+        "Age of Property":16,
+        "Price ($)":476657
+    },
+    {
+        "Area (sq ft)":2130,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"South April",
+        "Age of Property":0,
+        "Price ($)":322360
+    },
+    {
+        "Area (sq ft)":1980,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Hillchester",
+        "Age of Property":53,
+        "Price ($)":378954
+    },
+    {
+        "Area (sq ft)":1584,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"East Michael",
+        "Age of Property":6,
+        "Price ($)":767807
+    },
+    {
+        "Area (sq ft)":523,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"New Nancy",
+        "Age of Property":92,
+        "Price ($)":250520
+    },
+    {
+        "Area (sq ft)":1054,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Jonesside",
+        "Age of Property":69,
+        "Price ($)":231517
+    },
+    {
+        "Area (sq ft)":1460,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Jasonbury",
+        "Age of Property":44,
+        "Price ($)":814817
+    },
+    {
+        "Area (sq ft)":793,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Piercemouth",
+        "Age of Property":21,
+        "Price ($)":666235
+    },
+    {
+        "Area (sq ft)":3115,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Brownton",
+        "Age of Property":0,
+        "Price ($)":307047
+    },
+    {
+        "Area (sq ft)":3698,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Thompsonside",
+        "Age of Property":63,
+        "Price ($)":940588
+    },
+    {
+        "Area (sq ft)":3802,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Jeffside",
+        "Age of Property":91,
+        "Price ($)":741198
+    },
+    {
+        "Area (sq ft)":3409,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"South Brandonmouth",
+        "Age of Property":32,
+        "Price ($)":763151
+    },
+    {
+        "Area (sq ft)":973,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"North Brandy",
+        "Age of Property":70,
+        "Price ($)":978811
+    },
+    {
+        "Area (sq ft)":2242,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"South Michelle",
+        "Age of Property":24,
+        "Price ($)":57753
+    },
+    {
+        "Area (sq ft)":3543,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Cannonhaven",
+        "Age of Property":2,
+        "Price ($)":828101
+    },
+    {
+        "Area (sq ft)":3761,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"West Reneeburgh",
+        "Age of Property":95,
+        "Price ($)":857977
+    },
+    {
+        "Area (sq ft)":3205,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"East Courtneyside",
+        "Age of Property":3,
+        "Price ($)":336975
+    },
+    {
+        "Area (sq ft)":986,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Madisonside",
+        "Age of Property":28,
+        "Price ($)":443410
+    },
+    {
+        "Area (sq ft)":1016,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"North Nicole",
+        "Age of Property":58,
+        "Price ($)":739435
+    },
+    {
+        "Area (sq ft)":4811,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"West Kathleen",
+        "Age of Property":2,
+        "Price ($)":719759
+    },
+    {
+        "Area (sq ft)":4240,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Craigview",
+        "Age of Property":24,
+        "Price ($)":976929
+    },
+    {
+        "Area (sq ft)":1330,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Jamesberg",
+        "Age of Property":34,
+        "Price ($)":75164
+    },
+    {
+        "Area (sq ft)":2706,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Kennethmouth",
+        "Age of Property":73,
+        "Price ($)":876522
+    },
+    {
+        "Area (sq ft)":4049,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"West Jamesland",
+        "Age of Property":12,
+        "Price ($)":168292
+    },
+    {
+        "Area (sq ft)":2451,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"East Janet",
+        "Age of Property":14,
+        "Price ($)":332772
+    },
+    {
+        "Area (sq ft)":4145,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"New Kevinside",
+        "Age of Property":34,
+        "Price ($)":897256
+    },
+    {
+        "Area (sq ft)":1278,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Courtneyland",
+        "Age of Property":43,
+        "Price ($)":359625
+    },
+    {
+        "Area (sq ft)":4679,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Andrewfurt",
+        "Age of Property":89,
+        "Price ($)":734150
+    },
+    {
+        "Area (sq ft)":1844,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Port Haroldmouth",
+        "Age of Property":79,
+        "Price ($)":257482
+    },
+    {
+        "Area (sq ft)":4553,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Reginaldhaven",
+        "Age of Property":26,
+        "Price ($)":723824
+    },
+    {
+        "Area (sq ft)":4595,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Port Christopher",
+        "Age of Property":16,
+        "Price ($)":69687
+    },
+    {
+        "Area (sq ft)":2730,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Lake Maryfort",
+        "Age of Property":63,
+        "Price ($)":346791
+    },
+    {
+        "Area (sq ft)":1174,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"North Joseph",
+        "Age of Property":96,
+        "Price ($)":249421
+    },
+    {
+        "Area (sq ft)":4111,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Johnchester",
+        "Age of Property":75,
+        "Price ($)":564590
+    },
+    {
+        "Area (sq ft)":4751,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"South Neilhaven",
+        "Age of Property":97,
+        "Price ($)":545785
+    },
+    {
+        "Area (sq ft)":1949,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Port Matthew",
+        "Age of Property":85,
+        "Price ($)":176411
+    },
+    {
+        "Area (sq ft)":2984,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Lake Davidville",
+        "Age of Property":43,
+        "Price ($)":620290
+    },
+    {
+        "Area (sq ft)":2716,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Newtonshire",
+        "Age of Property":93,
+        "Price ($)":638765
+    },
+    {
+        "Area (sq ft)":620,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"East Sarah",
+        "Age of Property":41,
+        "Price ($)":213724
+    },
+    {
+        "Area (sq ft)":4867,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"West Justinchester",
+        "Age of Property":90,
+        "Price ($)":168500
+    },
+    {
+        "Area (sq ft)":4391,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Port Danielshire",
+        "Age of Property":56,
+        "Price ($)":878351
+    },
+    {
+        "Area (sq ft)":3003,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Port Jeremy",
+        "Age of Property":54,
+        "Price ($)":875396
+    },
+    {
+        "Area (sq ft)":4092,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"South Belinda",
+        "Age of Property":89,
+        "Price ($)":180969
+    },
+    {
+        "Area (sq ft)":4566,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Torresview",
+        "Age of Property":8,
+        "Price ($)":513842
+    },
+    {
+        "Area (sq ft)":528,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Johnland",
+        "Age of Property":61,
+        "Price ($)":350445
+    },
+    {
+        "Area (sq ft)":4375,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Turnermouth",
+        "Age of Property":29,
+        "Price ($)":410863
+    },
+    {
+        "Area (sq ft)":2199,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Charlesbury",
+        "Age of Property":60,
+        "Price ($)":411239
+    },
+    {
+        "Area (sq ft)":4097,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Elizabethton",
+        "Age of Property":20,
+        "Price ($)":819557
+    },
+    {
+        "Area (sq ft)":1049,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Port Linda",
+        "Age of Property":75,
+        "Price ($)":603069
+    },
+    {
+        "Area (sq ft)":4543,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"New Casey",
+        "Age of Property":100,
+        "Price ($)":711681
+    },
+    {
+        "Area (sq ft)":1654,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Edwinfort",
+        "Age of Property":67,
+        "Price ($)":756162
+    },
+    {
+        "Area (sq ft)":3243,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Morseville",
+        "Age of Property":41,
+        "Price ($)":337674
+    },
+    {
+        "Area (sq ft)":4022,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"West Deborahside",
+        "Age of Property":83,
+        "Price ($)":860162
+    },
+    {
+        "Area (sq ft)":875,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Jamesberg",
+        "Age of Property":77,
+        "Price ($)":981659
+    },
+    {
+        "Area (sq ft)":1751,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"North Christopher",
+        "Age of Property":58,
+        "Price ($)":148443
+    },
+    {
+        "Area (sq ft)":3936,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Nicoleview",
+        "Age of Property":19,
+        "Price ($)":989439
+    },
+    {
+        "Area (sq ft)":3034,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Catherinefurt",
+        "Age of Property":63,
+        "Price ($)":477824
+    },
+    {
+        "Area (sq ft)":733,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Hendersonshire",
+        "Age of Property":95,
+        "Price ($)":934426
+    },
+    {
+        "Area (sq ft)":2343,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Millerside",
+        "Age of Property":30,
+        "Price ($)":233409
+    },
+    {
+        "Area (sq ft)":4997,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Staciestad",
+        "Age of Property":86,
+        "Price ($)":806928
+    },
+    {
+        "Area (sq ft)":774,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Nicoleshire",
+        "Age of Property":64,
+        "Price ($)":975896
+    },
+    {
+        "Area (sq ft)":3676,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"South Allisonshire",
+        "Age of Property":92,
+        "Price ($)":226633
+    },
+    {
+        "Area (sq ft)":2645,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Michaelhaven",
+        "Age of Property":5,
+        "Price ($)":841030
+    },
+    {
+        "Area (sq ft)":3114,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Michaelfurt",
+        "Age of Property":48,
+        "Price ($)":803566
+    },
+    {
+        "Area (sq ft)":3979,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Port Juan",
+        "Age of Property":42,
+        "Price ($)":323425
+    },
+    {
+        "Area (sq ft)":2309,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"East Matthew",
+        "Age of Property":71,
+        "Price ($)":659934
+    },
+    {
+        "Area (sq ft)":788,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Thomastown",
+        "Age of Property":61,
+        "Price ($)":836394
+    },
+    {
+        "Area (sq ft)":1898,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Kimberlyhaven",
+        "Age of Property":15,
+        "Price ($)":505340
+    },
+    {
+        "Area (sq ft)":4909,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"West Nicholaschester",
+        "Age of Property":100,
+        "Price ($)":831865
+    },
+    {
+        "Area (sq ft)":927,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"West Ann",
+        "Age of Property":98,
+        "Price ($)":741731
+    },
+    {
+        "Area (sq ft)":3257,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Port Davidmouth",
+        "Age of Property":61,
+        "Price ($)":521301
+    },
+    {
+        "Area (sq ft)":1806,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Butlerfort",
+        "Age of Property":32,
+        "Price ($)":450761
+    },
+    {
+        "Area (sq ft)":789,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"North Bryan",
+        "Age of Property":23,
+        "Price ($)":279341
+    },
+    {
+        "Area (sq ft)":3157,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"West David",
+        "Age of Property":76,
+        "Price ($)":972035
+    },
+    {
+        "Area (sq ft)":1032,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Jonesside",
+        "Age of Property":37,
+        "Price ($)":201671
+    },
+    {
+        "Area (sq ft)":1944,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Haleyborough",
+        "Age of Property":31,
+        "Price ($)":970904
+    },
+    {
+        "Area (sq ft)":4244,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"North Kristen",
+        "Age of Property":38,
+        "Price ($)":388220
+    },
+    {
+        "Area (sq ft)":2435,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"South Ethan",
+        "Age of Property":71,
+        "Price ($)":815086
+    },
+    {
+        "Area (sq ft)":4228,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"New Laurenhaven",
+        "Age of Property":63,
+        "Price ($)":834629
+    },
+    {
+        "Area (sq ft)":2186,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Brittanyton",
+        "Age of Property":72,
+        "Price ($)":566359
+    },
+    {
+        "Area (sq ft)":2994,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Riggsland",
+        "Age of Property":58,
+        "Price ($)":170469
+    },
+    {
+        "Area (sq ft)":3140,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"West Teresa",
+        "Age of Property":43,
+        "Price ($)":382803
+    },
+    {
+        "Area (sq ft)":901,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"East Davidfurt",
+        "Age of Property":94,
+        "Price ($)":86404
+    },
+    {
+        "Area (sq ft)":3029,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Holmestown",
+        "Age of Property":93,
+        "Price ($)":525231
+    },
+    {
+        "Area (sq ft)":3029,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Lake Collin",
+        "Age of Property":74,
+        "Price ($)":373174
+    },
+    {
+        "Area (sq ft)":3987,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Johntown",
+        "Age of Property":63,
+        "Price ($)":76512
+    },
+    {
+        "Area (sq ft)":4683,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Monicashire",
+        "Age of Property":40,
+        "Price ($)":808743
+    },
+    {
+        "Area (sq ft)":4175,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"East Jonton",
+        "Age of Property":85,
+        "Price ($)":716719
+    },
+    {
+        "Area (sq ft)":4640,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"South Amyfort",
+        "Age of Property":33,
+        "Price ($)":76680
+    },
+    {
+        "Area (sq ft)":4725,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Thomasstad",
+        "Age of Property":38,
+        "Price ($)":626232
+    },
+    {
+        "Area (sq ft)":2854,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"East Michael",
+        "Age of Property":66,
+        "Price ($)":871329
+    },
+    {
+        "Area (sq ft)":1868,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Danieltown",
+        "Age of Property":84,
+        "Price ($)":688472
+    },
+    {
+        "Area (sq ft)":2902,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Cervantesview",
+        "Age of Property":81,
+        "Price ($)":778801
+    },
+    {
+        "Area (sq ft)":4641,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"North Sarahchester",
+        "Age of Property":12,
+        "Price ($)":526155
+    },
+    {
+        "Area (sq ft)":1582,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"North Heather",
+        "Age of Property":13,
+        "Price ($)":380101
+    },
+    {
+        "Area (sq ft)":3826,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Bryantshire",
+        "Age of Property":17,
+        "Price ($)":409992
+    },
+    {
+        "Area (sq ft)":792,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"North Julie",
+        "Age of Property":89,
+        "Price ($)":573535
+    },
+    {
+        "Area (sq ft)":848,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Matthewshire",
+        "Age of Property":8,
+        "Price ($)":236126
+    },
+    {
+        "Area (sq ft)":715,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Dawntown",
+        "Age of Property":42,
+        "Price ($)":655445
+    },
+    {
+        "Area (sq ft)":4021,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Nicoletown",
+        "Age of Property":69,
+        "Price ($)":226784
+    },
+    {
+        "Area (sq ft)":2545,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"West Brittanyfurt",
+        "Age of Property":51,
+        "Price ($)":851286
+    },
+    {
+        "Area (sq ft)":1201,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Port Jessicaton",
+        "Age of Property":14,
+        "Price ($)":813373
+    },
+    {
+        "Area (sq ft)":2377,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Joelview",
+        "Age of Property":6,
+        "Price ($)":598974
+    },
+    {
+        "Area (sq ft)":690,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Lake Karenberg",
+        "Age of Property":56,
+        "Price ($)":587362
+    },
+    {
+        "Area (sq ft)":1328,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Armstrongbury",
+        "Age of Property":94,
+        "Price ($)":939334
+    },
+    {
+        "Area (sq ft)":4816,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"East Edwardhaven",
+        "Age of Property":79,
+        "Price ($)":454128
+    },
+    {
+        "Area (sq ft)":1551,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Jimenezberg",
+        "Age of Property":33,
+        "Price ($)":881770
+    },
+    {
+        "Area (sq ft)":1184,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Nicholehaven",
+        "Age of Property":36,
+        "Price ($)":717065
+    },
+    {
+        "Area (sq ft)":3474,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Jennamouth",
+        "Age of Property":62,
+        "Price ($)":857258
+    },
+    {
+        "Area (sq ft)":686,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Moyerland",
+        "Age of Property":51,
+        "Price ($)":359014
+    },
+    {
+        "Area (sq ft)":2130,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Alexandramouth",
+        "Age of Property":19,
+        "Price ($)":968179
+    },
+    {
+        "Area (sq ft)":3201,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"New Crystalberg",
+        "Age of Property":96,
+        "Price ($)":887754
+    },
+    {
+        "Area (sq ft)":2264,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Wellsside",
+        "Age of Property":90,
+        "Price ($)":214134
+    },
+    {
+        "Area (sq ft)":1267,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Barberchester",
+        "Age of Property":9,
+        "Price ($)":212014
+    },
+    {
+        "Area (sq ft)":2188,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"North Linda",
+        "Age of Property":85,
+        "Price ($)":488458
+    },
+    {
+        "Area (sq ft)":3591,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"East Elizabeth",
+        "Age of Property":74,
+        "Price ($)":995693
+    },
+    {
+        "Area (sq ft)":4792,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"East Michael",
+        "Age of Property":57,
+        "Price ($)":238847
+    },
+    {
+        "Area (sq ft)":2561,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Williamsburgh",
+        "Age of Property":36,
+        "Price ($)":436915
+    },
+    {
+        "Area (sq ft)":648,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Boydtown",
+        "Age of Property":87,
+        "Price ($)":876705
+    },
+    {
+        "Area (sq ft)":585,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Lake Jonathanfurt",
+        "Age of Property":53,
+        "Price ($)":343416
+    },
+    {
+        "Area (sq ft)":3278,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"East Seth",
+        "Age of Property":33,
+        "Price ($)":252193
+    },
+    {
+        "Area (sq ft)":502,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Vanessamouth",
+        "Age of Property":100,
+        "Price ($)":914931
+    },
+    {
+        "Area (sq ft)":1966,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"North Marcusport",
+        "Age of Property":67,
+        "Price ($)":819228
+    },
+    {
+        "Area (sq ft)":1397,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"East Beth",
+        "Age of Property":36,
+        "Price ($)":847745
+    },
+    {
+        "Area (sq ft)":1516,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Lake Kelly",
+        "Age of Property":88,
+        "Price ($)":246163
+    },
+    {
+        "Area (sq ft)":3864,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Lake Jacobshire",
+        "Age of Property":13,
+        "Price ($)":335506
+    },
+    {
+        "Area (sq ft)":2073,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"West Michaelborough",
+        "Age of Property":97,
+        "Price ($)":321435
+    },
+    {
+        "Area (sq ft)":3977,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"North Robertberg",
+        "Age of Property":88,
+        "Price ($)":173138
+    },
+    {
+        "Area (sq ft)":3039,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Scottmouth",
+        "Age of Property":97,
+        "Price ($)":133470
+    },
+    {
+        "Area (sq ft)":2845,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"West Matthewside",
+        "Age of Property":98,
+        "Price ($)":660517
+    },
+    {
+        "Area (sq ft)":4972,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Millertown",
+        "Age of Property":55,
+        "Price ($)":656687
+    },
+    {
+        "Area (sq ft)":2722,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"West Matthew",
+        "Age of Property":73,
+        "Price ($)":131300
+    },
+    {
+        "Area (sq ft)":2428,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Wilcoxshire",
+        "Age of Property":18,
+        "Price ($)":311476
+    },
+    {
+        "Area (sq ft)":3695,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Jenniferville",
+        "Age of Property":55,
+        "Price ($)":304243
+    },
+    {
+        "Area (sq ft)":1409,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"North Michaelberg",
+        "Age of Property":29,
+        "Price ($)":248927
+    },
+    {
+        "Area (sq ft)":4214,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Michaelport",
+        "Age of Property":58,
+        "Price ($)":305823
+    },
+    {
+        "Area (sq ft)":4627,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Morrischester",
+        "Age of Property":95,
+        "Price ($)":261386
+    },
+    {
+        "Area (sq ft)":3270,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Danaton",
+        "Age of Property":95,
+        "Price ($)":198026
+    },
+    {
+        "Area (sq ft)":2566,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Schneidershire",
+        "Age of Property":63,
+        "Price ($)":102433
+    },
+    {
+        "Area (sq ft)":2289,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Fergusonfort",
+        "Age of Property":62,
+        "Price ($)":127118
+    },
+    {
+        "Area (sq ft)":3177,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Port James",
+        "Age of Property":47,
+        "Price ($)":642057
+    },
+    {
+        "Area (sq ft)":4689,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Hollandport",
+        "Age of Property":35,
+        "Price ($)":968303
+    },
+    {
+        "Area (sq ft)":1762,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Kristinshire",
+        "Age of Property":83,
+        "Price ($)":176071
+    },
+    {
+        "Area (sq ft)":4649,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Jenniferburgh",
+        "Age of Property":14,
+        "Price ($)":399644
+    },
+    {
+        "Area (sq ft)":966,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Allenfort",
+        "Age of Property":58,
+        "Price ($)":113284
+    },
+    {
+        "Area (sq ft)":2098,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"North Charlotte",
+        "Age of Property":64,
+        "Price ($)":66908
+    },
+    {
+        "Area (sq ft)":1699,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"New Richard",
+        "Age of Property":78,
+        "Price ($)":408301
+    },
+    {
+        "Area (sq ft)":3033,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Lake Alexanderside",
+        "Age of Property":76,
+        "Price ($)":397354
+    },
+    {
+        "Area (sq ft)":3707,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Christianhaven",
+        "Age of Property":11,
+        "Price ($)":308173
+    },
+    {
+        "Area (sq ft)":3944,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"East Richard",
+        "Age of Property":22,
+        "Price ($)":956710
+    },
+    {
+        "Area (sq ft)":4721,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Harmonstad",
+        "Age of Property":14,
+        "Price ($)":354238
+    },
+    {
+        "Area (sq ft)":1435,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Brandonview",
+        "Age of Property":43,
+        "Price ($)":178533
+    },
+    {
+        "Area (sq ft)":3383,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Ethanmouth",
+        "Age of Property":21,
+        "Price ($)":772262
+    },
+    {
+        "Area (sq ft)":3889,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Tylerborough",
+        "Age of Property":29,
+        "Price ($)":206949
+    },
+    {
+        "Area (sq ft)":4113,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Bobbytown",
+        "Age of Property":91,
+        "Price ($)":67117
+    },
+    {
+        "Area (sq ft)":3050,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"North Timothy",
+        "Age of Property":14,
+        "Price ($)":616041
+    },
+    {
+        "Area (sq ft)":4524,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Heidishire",
+        "Age of Property":93,
+        "Price ($)":477356
+    },
+    {
+        "Area (sq ft)":3468,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"East Ryan",
+        "Age of Property":22,
+        "Price ($)":376872
+    },
+    {
+        "Area (sq ft)":4934,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"North Chad",
+        "Age of Property":51,
+        "Price ($)":302125
+    },
+    {
+        "Area (sq ft)":2981,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Joshuafurt",
+        "Age of Property":19,
+        "Price ($)":980382
+    },
+    {
+        "Area (sq ft)":4812,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Lake Lisashire",
+        "Age of Property":77,
+        "Price ($)":961609
+    },
+    {
+        "Area (sq ft)":4337,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Port Brenda",
+        "Age of Property":46,
+        "Price ($)":553041
+    },
+    {
+        "Area (sq ft)":2596,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"West Bradyland",
+        "Age of Property":32,
+        "Price ($)":297640
+    },
+    {
+        "Area (sq ft)":2102,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Melissaville",
+        "Age of Property":57,
+        "Price ($)":897179
+    },
+    {
+        "Area (sq ft)":1423,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Bridgetfurt",
+        "Age of Property":89,
+        "Price ($)":617180
+    },
+    {
+        "Area (sq ft)":2014,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"East Tinamouth",
+        "Age of Property":33,
+        "Price ($)":950582
+    },
+    {
+        "Area (sq ft)":1212,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Huynhtown",
+        "Age of Property":50,
+        "Price ($)":161089
+    },
+    {
+        "Area (sq ft)":3249,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Lake Charles",
+        "Age of Property":96,
+        "Price ($)":83817
+    },
+    {
+        "Area (sq ft)":701,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Brownville",
+        "Age of Property":65,
+        "Price ($)":491936
+    },
+    {
+        "Area (sq ft)":4218,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Castilloside",
+        "Age of Property":81,
+        "Price ($)":180456
+    },
+    {
+        "Area (sq ft)":3268,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"East Fred",
+        "Age of Property":76,
+        "Price ($)":643886
+    },
+    {
+        "Area (sq ft)":2902,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Greenland",
+        "Age of Property":40,
+        "Price ($)":646573
+    },
+    {
+        "Area (sq ft)":2277,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"North Laurenton",
+        "Age of Property":44,
+        "Price ($)":889305
+    },
+    {
+        "Area (sq ft)":1072,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"East Kellibury",
+        "Age of Property":66,
+        "Price ($)":339988
+    },
+    {
+        "Area (sq ft)":3762,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"West Brian",
+        "Age of Property":87,
+        "Price ($)":984903
+    },
+    {
+        "Area (sq ft)":1116,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Alexview",
+        "Age of Property":92,
+        "Price ($)":351876
+    },
+    {
+        "Area (sq ft)":2091,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"South Jessica",
+        "Age of Property":11,
+        "Price ($)":155861
+    },
+    {
+        "Area (sq ft)":2809,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"North Sharon",
+        "Age of Property":63,
+        "Price ($)":808975
+    },
+    {
+        "Area (sq ft)":4397,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"New Bryanton",
+        "Age of Property":45,
+        "Price ($)":919209
+    },
+    {
+        "Area (sq ft)":2342,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Jacksonfort",
+        "Age of Property":0,
+        "Price ($)":416664
+    },
+    {
+        "Area (sq ft)":3171,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Castroburgh",
+        "Age of Property":48,
+        "Price ($)":107199
+    },
+    {
+        "Area (sq ft)":3494,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"South Richard",
+        "Age of Property":31,
+        "Price ($)":987410
+    },
+    {
+        "Area (sq ft)":1210,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Deanfurt",
+        "Age of Property":46,
+        "Price ($)":91326
+    },
+    {
+        "Area (sq ft)":2190,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"New Tinaport",
+        "Age of Property":79,
+        "Price ($)":261065
+    },
+    {
+        "Area (sq ft)":2129,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Lake Heatherborough",
+        "Age of Property":41,
+        "Price ($)":523241
+    },
+    {
+        "Area (sq ft)":3431,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"East Michaelchester",
+        "Age of Property":86,
+        "Price ($)":854366
+    },
+    {
+        "Area (sq ft)":4746,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Brownborough",
+        "Age of Property":13,
+        "Price ($)":519153
+    },
+    {
+        "Area (sq ft)":4596,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Elizabethland",
+        "Age of Property":86,
+        "Price ($)":960434
+    },
+    {
+        "Area (sq ft)":999,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Port Todd",
+        "Age of Property":75,
+        "Price ($)":678846
+    },
+    {
+        "Area (sq ft)":4963,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Jenniferburgh",
+        "Age of Property":85,
+        "Price ($)":279574
+    },
+    {
+        "Area (sq ft)":3347,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Carolyntown",
+        "Age of Property":15,
+        "Price ($)":980294
+    },
+    {
+        "Area (sq ft)":3691,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"New Richardville",
+        "Age of Property":100,
+        "Price ($)":501727
+    },
+    {
+        "Area (sq ft)":714,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"North Wendy",
+        "Age of Property":25,
+        "Price ($)":141988
+    },
+    {
+        "Area (sq ft)":1236,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Ronaldbury",
+        "Age of Property":0,
+        "Price ($)":287939
+    },
+    {
+        "Area (sq ft)":1819,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Elizabethmouth",
+        "Age of Property":18,
+        "Price ($)":701626
+    },
+    {
+        "Area (sq ft)":2863,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Cardenasfort",
+        "Age of Property":83,
+        "Price ($)":990535
+    },
+    {
+        "Area (sq ft)":2009,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Margaretfort",
+        "Age of Property":3,
+        "Price ($)":322739
+    },
+    {
+        "Area (sq ft)":3493,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Lake James",
+        "Age of Property":39,
+        "Price ($)":196471
+    },
+    {
+        "Area (sq ft)":2684,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"South Samanthaborough",
+        "Age of Property":52,
+        "Price ($)":307972
+    },
+    {
+        "Area (sq ft)":2609,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"East Mary",
+        "Age of Property":2,
+        "Price ($)":477233
+    },
+    {
+        "Area (sq ft)":2292,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"North Ryanmouth",
+        "Age of Property":54,
+        "Price ($)":876380
+    },
+    {
+        "Area (sq ft)":4218,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"East Melissaview",
+        "Age of Property":13,
+        "Price ($)":411293
+    },
+    {
+        "Area (sq ft)":2848,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Frostshire",
+        "Age of Property":89,
+        "Price ($)":657978
+    },
+    {
+        "Area (sq ft)":1676,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"East Alec",
+        "Age of Property":87,
+        "Price ($)":377290
+    },
+    {
+        "Area (sq ft)":1354,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Lake Lisaview",
+        "Age of Property":81,
+        "Price ($)":277889
+    },
+    {
+        "Area (sq ft)":634,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"West Angela",
+        "Age of Property":44,
+        "Price ($)":276989
+    },
+    {
+        "Area (sq ft)":3729,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Chrisshire",
+        "Age of Property":71,
+        "Price ($)":468372
+    },
+    {
+        "Area (sq ft)":3242,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"New Larryport",
+        "Age of Property":89,
+        "Price ($)":121114
+    },
+    {
+        "Area (sq ft)":3029,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Charlesberg",
+        "Age of Property":77,
+        "Price ($)":706687
+    },
+    {
+        "Area (sq ft)":4514,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"West Teresaview",
+        "Age of Property":8,
+        "Price ($)":60684
+    },
+    {
+        "Area (sq ft)":3064,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Jonathantown",
+        "Age of Property":18,
+        "Price ($)":324665
+    },
+    {
+        "Area (sq ft)":4798,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Santiagomouth",
+        "Age of Property":24,
+        "Price ($)":375088
+    },
+    {
+        "Area (sq ft)":4911,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Jessicahaven",
+        "Age of Property":73,
+        "Price ($)":186269
+    },
+    {
+        "Area (sq ft)":1718,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"North Kelsey",
+        "Age of Property":2,
+        "Price ($)":960860
+    },
+    {
+        "Area (sq ft)":2294,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Anneside",
+        "Age of Property":88,
+        "Price ($)":101043
+    },
+    {
+        "Area (sq ft)":2457,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"West Joel",
+        "Age of Property":10,
+        "Price ($)":58659
+    },
+    {
+        "Area (sq ft)":2199,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"West Amanda",
+        "Age of Property":42,
+        "Price ($)":499250
+    },
+    {
+        "Area (sq ft)":1494,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Rodriguezstad",
+        "Age of Property":82,
+        "Price ($)":691013
+    },
+    {
+        "Area (sq ft)":1759,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Robinsonport",
+        "Age of Property":87,
+        "Price ($)":501557
+    },
+    {
+        "Area (sq ft)":3971,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"East Amandafurt",
+        "Age of Property":26,
+        "Price ($)":370400
+    },
+    {
+        "Area (sq ft)":2696,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"New Larryshire",
+        "Age of Property":100,
+        "Price ($)":863167
+    },
+    {
+        "Area (sq ft)":3631,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"New Josephhaven",
+        "Age of Property":70,
+        "Price ($)":551685
+    },
+    {
+        "Area (sq ft)":2028,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Port Michaeltown",
+        "Age of Property":27,
+        "Price ($)":901113
+    },
+    {
+        "Area (sq ft)":2448,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Deanburgh",
+        "Age of Property":76,
+        "Price ($)":611092
+    },
+    {
+        "Area (sq ft)":3011,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"East Carolinehaven",
+        "Age of Property":3,
+        "Price ($)":419766
+    },
+    {
+        "Area (sq ft)":4331,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Alvarezchester",
+        "Age of Property":71,
+        "Price ($)":117989
+    },
+    {
+        "Area (sq ft)":4442,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"North Stevenstad",
+        "Age of Property":55,
+        "Price ($)":130391
+    },
+    {
+        "Area (sq ft)":2842,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Kramerport",
+        "Age of Property":31,
+        "Price ($)":219475
+    },
+    {
+        "Area (sq ft)":3834,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Michaelmouth",
+        "Age of Property":39,
+        "Price ($)":205011
+    },
+    {
+        "Area (sq ft)":2495,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Cooperchester",
+        "Age of Property":58,
+        "Price ($)":117676
+    },
+    {
+        "Area (sq ft)":1412,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Joyburgh",
+        "Age of Property":96,
+        "Price ($)":322556
+    },
+    {
+        "Area (sq ft)":962,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"South William",
+        "Age of Property":32,
+        "Price ($)":809872
+    },
+    {
+        "Area (sq ft)":3720,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"New Kathleenport",
+        "Age of Property":41,
+        "Price ($)":496473
+    },
+    {
+        "Area (sq ft)":3862,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Port Christopher",
+        "Age of Property":14,
+        "Price ($)":387108
+    },
+    {
+        "Area (sq ft)":3035,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Mollyport",
+        "Age of Property":72,
+        "Price ($)":311682
+    },
+    {
+        "Area (sq ft)":3993,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"New Mary",
+        "Age of Property":59,
+        "Price ($)":387147
+    },
+    {
+        "Area (sq ft)":1317,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Lake Brookeburgh",
+        "Age of Property":1,
+        "Price ($)":985906
+    },
+    {
+        "Area (sq ft)":4946,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Brownmouth",
+        "Age of Property":100,
+        "Price ($)":437469
+    },
+    {
+        "Area (sq ft)":765,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Thomasside",
+        "Age of Property":3,
+        "Price ($)":571837
+    },
+    {
+        "Area (sq ft)":1331,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"East Brenda",
+        "Age of Property":76,
+        "Price ($)":127989
+    },
+    {
+        "Area (sq ft)":3092,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Smithfort",
+        "Age of Property":93,
+        "Price ($)":185512
+    },
+    {
+        "Area (sq ft)":1980,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Potterstad",
+        "Age of Property":79,
+        "Price ($)":534089
+    },
+    {
+        "Area (sq ft)":2130,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Chloetown",
+        "Age of Property":63,
+        "Price ($)":429253
+    },
+    {
+        "Area (sq ft)":4083,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Barnestown",
+        "Age of Property":54,
+        "Price ($)":556030
+    },
+    {
+        "Area (sq ft)":2139,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Port Raymond",
+        "Age of Property":91,
+        "Price ($)":148662
+    },
+    {
+        "Area (sq ft)":590,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"North Tammyville",
+        "Age of Property":69,
+        "Price ($)":352314
+    },
+    {
+        "Area (sq ft)":3037,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Garciachester",
+        "Age of Property":57,
+        "Price ($)":595019
+    },
+    {
+        "Area (sq ft)":2968,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Port Robin",
+        "Age of Property":31,
+        "Price ($)":287920
+    },
+    {
+        "Area (sq ft)":3762,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Port Toddshire",
+        "Age of Property":35,
+        "Price ($)":346853
+    },
+    {
+        "Area (sq ft)":2705,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Sanchezborough",
+        "Age of Property":63,
+        "Price ($)":608822
+    },
+    {
+        "Area (sq ft)":2113,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"North Lindaport",
+        "Age of Property":70,
+        "Price ($)":651735
+    },
+    {
+        "Area (sq ft)":4486,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"Millerton",
+        "Age of Property":74,
+        "Price ($)":512455
+    },
+    {
+        "Area (sq ft)":3509,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"North Michelleshire",
+        "Age of Property":44,
+        "Price ($)":221145
+    },
+    {
+        "Area (sq ft)":3664,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"North Danieltown",
+        "Age of Property":70,
+        "Price ($)":499162
+    },
+    {
+        "Area (sq ft)":2195,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"North Joseph",
+        "Age of Property":55,
+        "Price ($)":759757
+    },
+    {
+        "Area (sq ft)":2094,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Michaelshire",
+        "Age of Property":25,
+        "Price ($)":416991
+    },
+    {
+        "Area (sq ft)":4707,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Loribury",
+        "Age of Property":61,
+        "Price ($)":570700
+    },
+    {
+        "Area (sq ft)":827,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"South William",
+        "Age of Property":55,
+        "Price ($)":71673
+    },
+    {
+        "Area (sq ft)":1707,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"East Melissaberg",
+        "Age of Property":25,
+        "Price ($)":739328
+    },
+    {
+        "Area (sq ft)":3504,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Johnsonbury",
+        "Age of Property":76,
+        "Price ($)":795271
+    },
+    {
+        "Area (sq ft)":3607,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Francotown",
+        "Age of Property":50,
+        "Price ($)":554948
+    },
+    {
+        "Area (sq ft)":1031,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Kellichester",
+        "Age of Property":72,
+        "Price ($)":945946
+    },
+    {
+        "Area (sq ft)":4292,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Jamiebury",
+        "Age of Property":69,
+        "Price ($)":243727
+    },
+    {
+        "Area (sq ft)":1806,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Larryland",
+        "Age of Property":98,
+        "Price ($)":192010
+    },
+    {
+        "Area (sq ft)":3367,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Morrisonhaven",
+        "Age of Property":35,
+        "Price ($)":747634
+    },
+    {
+        "Area (sq ft)":870,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Kimberg",
+        "Age of Property":59,
+        "Price ($)":950655
+    },
+    {
+        "Area (sq ft)":1565,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Hubershire",
+        "Age of Property":44,
+        "Price ($)":437644
+    },
+    {
+        "Area (sq ft)":3975,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Grossfort",
+        "Age of Property":58,
+        "Price ($)":421698
+    },
+    {
+        "Area (sq ft)":2755,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Tranchester",
+        "Age of Property":73,
+        "Price ($)":488102
+    },
+    {
+        "Area (sq ft)":1927,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Carlosbury",
+        "Age of Property":33,
+        "Price ($)":207875
+    },
+    {
+        "Area (sq ft)":1078,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Phillipsmouth",
+        "Age of Property":89,
+        "Price ($)":109566
+    },
+    {
+        "Area (sq ft)":4574,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Elainehaven",
+        "Age of Property":92,
+        "Price ($)":567139
+    },
+    {
+        "Area (sq ft)":3129,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Coleside",
+        "Age of Property":28,
+        "Price ($)":632957
+    },
+    {
+        "Area (sq ft)":675,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Stephenchester",
+        "Age of Property":46,
+        "Price ($)":144084
+    },
+    {
+        "Area (sq ft)":767,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Fordland",
+        "Age of Property":25,
+        "Price ($)":99355
+    },
+    {
+        "Area (sq ft)":3676,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"East Josephberg",
+        "Age of Property":45,
+        "Price ($)":875170
+    },
+    {
+        "Area (sq ft)":2753,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Debbieshire",
+        "Age of Property":65,
+        "Price ($)":763084
+    },
+    {
+        "Area (sq ft)":761,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Coreystad",
+        "Age of Property":29,
+        "Price ($)":659866
+    },
+    {
+        "Area (sq ft)":2797,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"South Micheleview",
+        "Age of Property":20,
+        "Price ($)":782280
+    },
+    {
+        "Area (sq ft)":570,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"West Jenniferfort",
+        "Age of Property":85,
+        "Price ($)":249235
+    },
+    {
+        "Area (sq ft)":4991,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"South Steven",
+        "Age of Property":27,
+        "Price ($)":688235
+    },
+    {
+        "Area (sq ft)":2737,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Lake Nina",
+        "Age of Property":57,
+        "Price ($)":585575
+    },
+    {
+        "Area (sq ft)":3385,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"South Joanville",
+        "Age of Property":67,
+        "Price ($)":825696
+    },
+    {
+        "Area (sq ft)":643,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"East Jessicaport",
+        "Age of Property":3,
+        "Price ($)":251104
+    },
+    {
+        "Area (sq ft)":3524,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Mitchellmouth",
+        "Age of Property":40,
+        "Price ($)":892866
+    },
+    {
+        "Area (sq ft)":2574,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"East Brianastad",
+        "Age of Property":82,
+        "Price ($)":699177
+    },
+    {
+        "Area (sq ft)":3094,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Thomaston",
+        "Age of Property":68,
+        "Price ($)":302381
+    },
+    {
+        "Area (sq ft)":730,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Youngville",
+        "Age of Property":91,
+        "Price ($)":699955
+    },
+    {
+        "Area (sq ft)":3334,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"East Lindafurt",
+        "Age of Property":100,
+        "Price ($)":801806
+    },
+    {
+        "Area (sq ft)":2426,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Mcdonaldfurt",
+        "Age of Property":40,
+        "Price ($)":149496
+    },
+    {
+        "Area (sq ft)":4482,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"South Debrabury",
+        "Age of Property":7,
+        "Price ($)":183444
+    },
+    {
+        "Area (sq ft)":504,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"North Mariaton",
+        "Age of Property":13,
+        "Price ($)":523644
+    },
+    {
+        "Area (sq ft)":3188,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Haleyfort",
+        "Age of Property":59,
+        "Price ($)":74610
+    },
+    {
+        "Area (sq ft)":2248,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"New Christopherport",
+        "Age of Property":33,
+        "Price ($)":622272
+    },
+    {
+        "Area (sq ft)":4139,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Russellmouth",
+        "Age of Property":71,
+        "Price ($)":575089
+    },
+    {
+        "Area (sq ft)":1842,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Port Colin",
+        "Age of Property":15,
+        "Price ($)":859496
+    },
+    {
+        "Area (sq ft)":1825,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"West Lindafurt",
+        "Age of Property":81,
+        "Price ($)":723245
+    },
+    {
+        "Area (sq ft)":778,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Stoutbury",
+        "Age of Property":13,
+        "Price ($)":876839
+    },
+    {
+        "Area (sq ft)":1496,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Lake Heidifort",
+        "Age of Property":57,
+        "Price ($)":529907
+    },
+    {
+        "Area (sq ft)":1085,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Brianfort",
+        "Age of Property":61,
+        "Price ($)":721042
+    },
+    {
+        "Area (sq ft)":1926,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Robinside",
+        "Age of Property":92,
+        "Price ($)":305459
+    },
+    {
+        "Area (sq ft)":2495,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Jenniferberg",
+        "Age of Property":99,
+        "Price ($)":625162
+    },
+    {
+        "Area (sq ft)":2345,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Barbaraberg",
+        "Age of Property":37,
+        "Price ($)":110688
+    },
+    {
+        "Area (sq ft)":3133,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Nicolaschester",
+        "Age of Property":80,
+        "Price ($)":961210
+    },
+    {
+        "Area (sq ft)":1223,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Smithborough",
+        "Age of Property":69,
+        "Price ($)":332224
+    },
+    {
+        "Area (sq ft)":3743,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"West William",
+        "Age of Property":35,
+        "Price ($)":441949
+    },
+    {
+        "Area (sq ft)":2602,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Levinestad",
+        "Age of Property":38,
+        "Price ($)":569362
+    },
+    {
+        "Area (sq ft)":983,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"North Jessicaview",
+        "Age of Property":80,
+        "Price ($)":932246
+    },
+    {
+        "Area (sq ft)":780,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Mistyburgh",
+        "Age of Property":92,
+        "Price ($)":570760
+    },
+    {
+        "Area (sq ft)":3175,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Ramirezhaven",
+        "Age of Property":34,
+        "Price ($)":205121
+    },
+    {
+        "Area (sq ft)":3867,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"North Ryan",
+        "Age of Property":18,
+        "Price ($)":676147
+    },
+    {
+        "Area (sq ft)":4390,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"New George",
+        "Age of Property":42,
+        "Price ($)":764772
+    },
+    {
+        "Area (sq ft)":3527,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Lamberthaven",
+        "Age of Property":81,
+        "Price ($)":913477
+    },
+    {
+        "Area (sq ft)":1620,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"West James",
+        "Age of Property":52,
+        "Price ($)":376679
+    },
+    {
+        "Area (sq ft)":3518,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Johnsonborough",
+        "Age of Property":60,
+        "Price ($)":734142
+    },
+    {
+        "Area (sq ft)":2432,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"New Robert",
+        "Age of Property":89,
+        "Price ($)":180878
+    },
+    {
+        "Area (sq ft)":3295,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Port Mike",
+        "Age of Property":29,
+        "Price ($)":81580
+    },
+    {
+        "Area (sq ft)":1577,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Lake Benjamin",
+        "Age of Property":1,
+        "Price ($)":424846
+    },
+    {
+        "Area (sq ft)":3278,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Port Johnathan",
+        "Age of Property":99,
+        "Price ($)":489745
+    },
+    {
+        "Area (sq ft)":3264,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"South Marymouth",
+        "Age of Property":4,
+        "Price ($)":709115
+    },
+    {
+        "Area (sq ft)":4594,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Lopezberg",
+        "Age of Property":3,
+        "Price ($)":207207
+    },
+    {
+        "Area (sq ft)":3675,
+        "Bedrooms":2,
+        "Bathrooms":2,
+        "Location":"Nicoleton",
+        "Age of Property":89,
+        "Price ($)":779863
+    },
+    {
+        "Area (sq ft)":4033,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"West Katrinastad",
+        "Age of Property":45,
+        "Price ($)":854141
+    },
+    {
+        "Area (sq ft)":4031,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"Alvarezhaven",
+        "Age of Property":20,
+        "Price ($)":270578
+    },
+    {
+        "Area (sq ft)":1004,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Youngland",
+        "Age of Property":63,
+        "Price ($)":452078
+    },
+    {
+        "Area (sq ft)":2906,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Navarroshire",
+        "Age of Property":24,
+        "Price ($)":364578
+    },
+    {
+        "Area (sq ft)":1676,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"Perrymouth",
+        "Age of Property":25,
+        "Price ($)":145780
+    },
+    {
+        "Area (sq ft)":3268,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Kirstenside",
+        "Age of Property":19,
+        "Price ($)":617439
+    },
+    {
+        "Area (sq ft)":3081,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Jasonland",
+        "Age of Property":3,
+        "Price ($)":923085
+    },
+    {
+        "Area (sq ft)":3343,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"New Brittany",
+        "Age of Property":39,
+        "Price ($)":269861
+    },
+    {
+        "Area (sq ft)":931,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Jameston",
+        "Age of Property":4,
+        "Price ($)":942430
+    },
+    {
+        "Area (sq ft)":2617,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"North Kelly",
+        "Age of Property":20,
+        "Price ($)":647463
+    },
+    {
+        "Area (sq ft)":2998,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Lake Davidshire",
+        "Age of Property":72,
+        "Price ($)":921345
+    },
+    {
+        "Area (sq ft)":4606,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Piercefort",
+        "Age of Property":50,
+        "Price ($)":114405
+    },
+    {
+        "Area (sq ft)":3619,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Lauraton",
+        "Age of Property":79,
+        "Price ($)":825508
+    },
+    {
+        "Area (sq ft)":3909,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"North Charleshaven",
+        "Age of Property":60,
+        "Price ($)":338444
+    },
+    {
+        "Area (sq ft)":668,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"New Edwardville",
+        "Age of Property":94,
+        "Price ($)":737169
+    },
+    {
+        "Area (sq ft)":1239,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Port Jenniferfort",
+        "Age of Property":7,
+        "Price ($)":213479
+    },
+    {
+        "Area (sq ft)":4087,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Port Sharon",
+        "Age of Property":64,
+        "Price ($)":200423
+    },
+    {
+        "Area (sq ft)":4320,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"North Nathanview",
+        "Age of Property":3,
+        "Price ($)":954220
+    },
+    {
+        "Area (sq ft)":908,
+        "Bedrooms":4,
+        "Bathrooms":2,
+        "Location":"Torresburgh",
+        "Age of Property":78,
+        "Price ($)":664271
+    },
+    {
+        "Area (sq ft)":4691,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Cunninghamport",
+        "Age of Property":98,
+        "Price ($)":213355
+    },
+    {
+        "Area (sq ft)":4070,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Whitemouth",
+        "Age of Property":90,
+        "Price ($)":856307
+    },
+    {
+        "Area (sq ft)":1989,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Terryview",
+        "Age of Property":10,
+        "Price ($)":524399
+    },
+    {
+        "Area (sq ft)":2543,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"New Douglasview",
+        "Age of Property":69,
+        "Price ($)":468331
+    },
+    {
+        "Area (sq ft)":2980,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"East Alexanderview",
+        "Age of Property":76,
+        "Price ($)":780874
+    },
+    {
+        "Area (sq ft)":4546,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"New Peterport",
+        "Age of Property":51,
+        "Price ($)":149740
+    },
+    {
+        "Area (sq ft)":4688,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Rogersbury",
+        "Age of Property":48,
+        "Price ($)":619111
+    },
+    {
+        "Area (sq ft)":2442,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Lisaview",
+        "Age of Property":95,
+        "Price ($)":670729
+    },
+    {
+        "Area (sq ft)":3152,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"West Lisafort",
+        "Age of Property":67,
+        "Price ($)":879589
+    },
+    {
+        "Area (sq ft)":2585,
+        "Bedrooms":5,
+        "Bathrooms":4,
+        "Location":"Port Lisafurt",
+        "Age of Property":78,
+        "Price ($)":335493
+    },
+    {
+        "Area (sq ft)":1142,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Lake Jane",
+        "Age of Property":75,
+        "Price ($)":887692
+    },
+    {
+        "Area (sq ft)":2149,
+        "Bedrooms":4,
+        "Bathrooms":4,
+        "Location":"Ryanfurt",
+        "Age of Property":10,
+        "Price ($)":451296
+    },
+    {
+        "Area (sq ft)":3593,
+        "Bedrooms":3,
+        "Bathrooms":2,
+        "Location":"Clarkfort",
+        "Age of Property":18,
+        "Price ($)":937735
+    },
+    {
+        "Area (sq ft)":3326,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Paulashire",
+        "Age of Property":34,
+        "Price ($)":811557
+    },
+    {
+        "Area (sq ft)":2975,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"South Briana",
+        "Age of Property":79,
+        "Price ($)":839745
+    },
+    {
+        "Area (sq ft)":4144,
+        "Bedrooms":4,
+        "Bathrooms":3,
+        "Location":"South Priscilla",
+        "Age of Property":18,
+        "Price ($)":702544
+    },
+    {
+        "Area (sq ft)":857,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Henrybury",
+        "Age of Property":13,
+        "Price ($)":671291
+    },
+    {
+        "Area (sq ft)":4202,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Port Alexander",
+        "Age of Property":10,
+        "Price ($)":838618
+    },
+    {
+        "Area (sq ft)":784,
+        "Bedrooms":3,
+        "Bathrooms":1,
+        "Location":"Lake Michaelhaven",
+        "Age of Property":16,
+        "Price ($)":605928
+    },
+    {
+        "Area (sq ft)":3614,
+        "Bedrooms":2,
+        "Bathrooms":3,
+        "Location":"West Dustin",
+        "Age of Property":42,
+        "Price ($)":483252
+    },
+    {
+        "Area (sq ft)":1715,
+        "Bedrooms":1,
+        "Bathrooms":2,
+        "Location":"Petermouth",
+        "Age of Property":8,
+        "Price ($)":781683
+    },
+    {
+        "Area (sq ft)":1140,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"New Alexandrialand",
+        "Age of Property":40,
+        "Price ($)":954091
+    },
+    {
+        "Area (sq ft)":3205,
+        "Bedrooms":2,
+        "Bathrooms":1,
+        "Location":"Saundersmouth",
+        "Age of Property":100,
+        "Price ($)":270980
+    },
+    {
+        "Area (sq ft)":668,
+        "Bedrooms":4,
+        "Bathrooms":1,
+        "Location":"Amyland",
+        "Age of Property":62,
+        "Price ($)":585454
+    },
+    {
+        "Area (sq ft)":1913,
+        "Bedrooms":5,
+        "Bathrooms":2,
+        "Location":"Johnburgh",
+        "Age of Property":60,
+        "Price ($)":149797
+    },
+    {
+        "Area (sq ft)":1727,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Robinsonside",
+        "Age of Property":13,
+        "Price ($)":527346
+    },
+    {
+        "Area (sq ft)":2510,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Port Marco",
+        "Age of Property":54,
+        "Price ($)":982985
+    },
+    {
+        "Area (sq ft)":1236,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Port Amy",
+        "Age of Property":100,
+        "Price ($)":388760
+    },
+    {
+        "Area (sq ft)":737,
+        "Bedrooms":3,
+        "Bathrooms":3,
+        "Location":"Ashleybury",
+        "Age of Property":43,
+        "Price ($)":785842
+    },
+    {
+        "Area (sq ft)":1597,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Robinside",
+        "Age of Property":39,
+        "Price ($)":530739
+    },
+    {
+        "Area (sq ft)":2907,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"Kathrynside",
+        "Age of Property":51,
+        "Price ($)":569719
+    },
+    {
+        "Area (sq ft)":1194,
+        "Bedrooms":2,
+        "Bathrooms":4,
+        "Location":"New Brookeburgh",
+        "Age of Property":22,
+        "Price ($)":265390
+    },
+    {
+        "Area (sq ft)":1129,
+        "Bedrooms":5,
+        "Bathrooms":3,
+        "Location":"Garymouth",
+        "Age of Property":4,
+        "Price ($)":899820
+    },
+    {
+        "Area (sq ft)":2143,
+        "Bedrooms":1,
+        "Bathrooms":4,
+        "Location":"Port Eric",
+        "Age of Property":66,
+        "Price ($)":184144
+    },
+    {
+        "Area (sq ft)":3451,
+        "Bedrooms":3,
+        "Bathrooms":4,
+        "Location":"Lake Lisa",
+        "Age of Property":12,
+        "Price ($)":312771
+    },
+    {
+        "Area (sq ft)":3699,
+        "Bedrooms":5,
+        "Bathrooms":1,
+        "Location":"Martinezland",
+        "Age of Property":32,
+        "Price ($)":428924
+    },
+    {
+        "Area (sq ft)":2005,
+        "Bedrooms":1,
+        "Bathrooms":1,
+        "Location":"Lake Richardborough",
+        "Age of Property":90,
+        "Price ($)":773522
+    },
+    {
+        "Area (sq ft)":4638,
+        "Bedrooms":1,
+        "Bathrooms":3,
+        "Location":"South Lindafort",
+        "Age of Property":99,
+        "Price ($)":398600
+    }
+]
